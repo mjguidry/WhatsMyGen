@@ -1,0 +1,310 @@
+	<!-- 1 -->
+	<link title="timeline-styles" rel="stylesheet"
+		href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+
+	<!-- 2 -->
+	<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+	<div id='timeline-embed' style="width: 100%; height: 600px"></div>
+	<!-- 3 -->
+	<script type="text/javascript">
+		var lost = {
+			start_date: { year: 1892, month: 1, day: 1 },
+			end_date: { year: 1909, month: 12, day: 31 },
+			text: { headline: "Lost Generation (1892-1909)" }
+		};
+		var gi = {
+			start_date: { year: 1910, month: 1, day: 1 },
+			end_date: { year: 1927, month: 12, day: 31 },
+			text: { headline: "G.I. Generation (1910-1927)" }
+		};
+		var silent = {
+			start_date: { year: 1928, month: 1, day: 1 },
+			end_date: { year: 1945, month: 12, day: 31 },
+			text: { headline: "Silent Generation (1928-1945)" }
+		};
+		var boomer = {
+			start_date: { year: 1946, month: 1, day: 1 },
+			end_date: { year: 1963, month: 12, day: 31 },
+			text: { headline: "Baby Boomers (1946-1963)" }
+		};
+		var gen_x = {
+			start_date: { year: 1964, month: 1, day: 1 },
+			end_date: { year: 1981, month: 12, day: 31 },
+			text: { headline: "Generation X (1964-1981)" }
+		};
+		var millennial = {
+			start_date: { year: 1982, month: 1, day: 1 },
+			end_date: { year: 1999, month: 12, day: 31 },
+			text: { headline: "Millennial Generation (1982-1999)" }
+		};
+
+		var lost_early = {
+			start_date: { year: 1892, month: 1, day: 1 },
+			end_date: { year: 1897, month: 12, day: 31 },
+			display_date: "1892-1897",
+			text: {
+				headline: "Older Lost",
+				text: "<ol><li>William Faulkner (1897)</li><li>F. Scott Fitzgerald (1896)</li><li>John Ford (1894)</li><li>Martha Graham (1894)</li><li>Henry Cowell (1897)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg",
+				caption: "William Faulkner",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Font_L.svg"
+			},
+		};
+		var lost_mid = {
+			start_date: { year: 1898, month: 1, day: 1 },
+			end_date: { year: 1903, month: 12, day: 31 },
+			display_date: "1898-1903",
+			text: {
+				headline: "Middle Lost",
+				text: "<ol><li>Ernest Hemingway (1899)</li><li>Walt Disney (1901)</li><li>Louis Armstrong (1901)</li><li>Enrico Fermi (1901)</li><li>George Gershwin (1898)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg",
+				caption: "Ernest Hemingway",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Font_L.svg"
+			},
+		};
+		var lost_late = {
+			start_date: { year: 1904, month: 1, day: 1 },
+			end_date: { year: 1909, month: 12, day: 31 },
+			display_date: "1904-1909",
+			text: {
+				headline: "Younger Lost",
+				text: "<ol>" +
+					"<li>Lyndon B. Johnson (1908)</li>" +
+					"<li>John Wayne (1907)</li>" +
+					"<li>Willem de Kooning (1904)</li>" +
+					"<li>John Huston (1906)</li>" +
+					"<li>Philip Johnson (1906)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
+				caption: "Lyndon B. Johnson",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Font_L.svg"
+			},
+		};
+		var gi_early = {
+			start_date: { year: 1910, month: 1, day: 1 },
+			end_date: { year: 1915, month: 12, day: 31 },
+			display_date: "1910-1915",
+			text: {
+				headline: "Older GIs",
+				text: "<ol><li>Ronald Reagan (1911)</li><li>Richard Nixon (1913)</li><li>Orson Welles (1915)</li><li>Milton Friedman (1912)</li><li>Gerald Ford (1913)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg",
+				caption: "Ronald Reagan",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/8/86/Font_G.svg"
+			},
+		};
+		var gi_mid = {
+			start_date: { year: 1916, month: 1, day: 1 },
+			end_date: { year: 1921, month: 12, day: 31 },
+			display_date: "1916-1921",
+			text: {
+				headline: "Middle GIs",
+				text: "<ol><li>John F. Kennedy (1917)</li><li>John Rawls (1921)</li><li>James M. Buchanan (1919)</li><li>Jerome Robbins (1918)</li><li>Nancy Reagan (1921)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg",
+				caption: "John F. Kennedy",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/8/86/Font_G.svg"
+			},
+		};
+		var gi_late = {
+			start_date: { year: 1922, month: 1, day: 1 },
+			end_date: { year: 1927, month: 12, day: 31 },
+			display_date: "1922-1927",
+			text: {
+				headline: "Younger GIs",
+				text: "<ol><li>George H. W. Bush (1924)</li><li>Jimmy Carter (1924)</li><li>Henry Kissinger (1923)</li><li>Marilyn Monroe (1926)</li><li>Chuck Berry (1926)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/e/ee/George_H._W._Bush_crop.jpg",
+				caption: "George H. W. Bush",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/8/86/Font_G.svg"
+			},
+		};
+		var silent_early = {
+			start_date: { year: 1928, month: 1, day: 1 },
+			end_date: { year: 1933, month: 12, day: 31 },
+			display_date: "1928-1933",
+			text: {
+				headline: "Older Silent",
+				text: "<ol><li>Martin Luther King Jr. (1929)</li><li>Noam Chomsky (1928)</li><li>Andy Warhol (1928)</li><li>Frank Gehry (1929)</li><li>James Brown (1933)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg",
+				caption: "Martin Luther King Jr.",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Font_S.svg"
+			},
+		};
+		var silent_mid = {
+			start_date: { year: 1934, month: 1, day: 1 },
+			end_date: { year: 1939, month: 12, day: 31 },
+			display_date: "1934-1939",
+			text: {
+				headline: "Middle Silent",
+				text: "<ol><li>Elvis Presley (1935)</li><li>John McCain (1936)</li><li>Francis Ford Coppola (1939)</li><li>Thomas Pynchon (1937)</li><li>Robert Nozick (1938)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+				caption: "Elvis Presley",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Font_S.svg"
+			},
+		};
+		var silent_late = {
+			start_date: { year: 1940, month: 1, day: 1 },
+			end_date: { year: 1945, month: 12, day: 31 },
+			display_date: "1940-1945",
+			text: {
+				headline: "Younger Silent",
+				text: "<ol><li>Bob Dylan (1941)</li><li>John Kerry (1943)</li><li>Martin Scorsese (1942)</li><li>George Lucas (1944)</li><li>Nancy Pelosi (1940)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg",
+				caption: "Bob Dylan",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Font_S.svg"
+			},
+		};
+		var boomer_early = {
+			start_date: { year: 1946, month: 1, day: 1 },
+			end_date: { year: 1951, month: 12, day: 31 },
+			display_date: "1946-1951",
+			text: {
+				headline: "Older Boomers",
+				text: "<ol><li>George W. Bush (1946)</li><li>Donald Trump (1946)</li><li>Bill Clinton (1946)</li><li>Hillary Clinton (1947)</li><li>Steven Spielberg (1946)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg",
+				caption: "George W. Bush",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_B.svg"
+			},
+		};
+		var boomer_mid = {
+			start_date: { year: 1952, month: 1, day: 1 },
+			end_date: { year: 1957, month: 12, day: 31 },
+			display_date: "1952-1957",
+			text: {
+				headline: "Middle Boomers",
+				text: "<ol><li>Bill Gates (1955)</li><li>Cornel West (1953)</li><li>Judith Butler (1956)</li><li>Condoleezza Rice (1954)</li><li>Oprah Winfrey (1954)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bill_Gates_2018.jpg",
+				caption: "Bill Gates",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_B.svg"
+			},
+		};
+		var boomer_late = {
+			start_date: { year: 1958, month: 1, day: 1 },
+			end_date: { year: 1963, month: 12, day: 31 },
+			display_date: "1958-1963",
+			text: {
+				headline: "Younger Boomers",
+				text: "<ol><li>Barack Obama (1961)</li><li>Madonna (1958)</li><li>Michael Jackson (1958)</li><li>Prince (1958)</li><li>Mike Pence (1959)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+				caption: "Barack Obama",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Font_B.svg"
+			},
+		};
+		var gen_x_early = {
+			start_date: { year: 1964, month: 1, day: 1 },
+			end_date: { year: 1969, month: 12, day: 31 },
+			display_date: "1964-1969",
+			text: {
+				headline: "Older Gen X",
+				text: "<ol><li>Jay-Z (1969)</li><li>Michelle Obama (1964)</li><li>Kevin McCarthy (1965)</li><li>Jennifer Lopez (1969)</li><li>Janet Jackson (1966)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jay-Z.png",
+				caption: "Jay-Z",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Font_X.svg"
+			},
+		};
+		var gen_x_mid = {
+			start_date: { year: 1970, month: 1, day: 1 },
+			end_date: { year: 1975, month: 12, day: 31 },
+			display_date: "1970-1975",
+			text: {
+				headline: "Middle Gen X",
+				text: "<ol><li>Eminem (1972)</li><li>Christopher Nolan (1970)</li><li>Paul Ryan (1970)</li><li>Snoop Dogg (1971)</li><li>Leonardo DiCaprio (1974)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28Cropped%29.jpg",
+				caption: "Eminem",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Font_X.svg"
+			},
+		};
+		var gen_x_late = {
+			start_date: { year: 1976, month: 1, day: 1 },
+			end_date: { year: 1981, month: 12, day: 31 },
+			display_date: "1976-1981",
+			text: {
+				headline: "Younger Gen X",
+				text: "<ol><li>Beyoncé (1981)</li><li>Britney Spears (1981)</li><li>Kanye West (1977)</li><li>Pink (1979)</li><li>Justin Timberlake (1981)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Beyonce_-_The_Formation_World_Tour%2C_at_Wembley_Stadium_in_London%2C_England.jpg",
+				caption: "Beyoncé",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Font_X.svg"
+			},
+		};
+		var millennial_early = {
+			start_date: { year: 1982, month: 1, day: 1 },
+			end_date: { year: 1987, month: 12, day: 31 },
+			display_date: "1982-1987",
+			text: {
+				headline: "Older Millennials",
+				text: "<ol><li>Katy Perry (1984)</li><li>Lady Gaga (1986)</li><li>Edward Snowden (1983)</li><li>Michael Phelps (1985)</li><li>LeBron James (1984)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Katy_Perry_at_Madison_Square_Garden_%2837436531092%29_%28cropped%29.jpg",
+				caption: "Katy Perry",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/2/25/Font_M.svg"
+			},
+		};
+		var millennial_mid = {
+			start_date: { year: 1988, month: 1, day: 1 },
+			end_date: { year: 1993, month: 12, day: 31 },
+			display_date: "1988-1993",
+			text: {
+				headline: "Middle Millennials",
+				text: "<ol><li>Taylor Swift (1989)</li><li>Ariana Grande (1993)</li><li>Selena Gomez (1992)</li><li>Miley Cyrus (1992)</li><li>Demi Lovato (1992)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/2/25/Taylor_Swift_112_%2818119055110%29_%28cropped%29.jpg",
+				caption: "Taylor Swift",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/2/25/Font_M.svg"
+			},
+		};
+		var millennial_late = {
+			start_date: { year: 1994, month: 1, day: 1 },
+			end_date: { year: 1999, month: 12, day: 31 },
+			display_date: "1994-1999",
+			text: {
+				headline: "Younger Millennials",
+				text: "<ol><li>Camila Cabello (1997)</li><li>Trayvon Martin (1995)</li><li>Becky G (1997)</li><li>Dakota Fanning (1994)</li><li>Post Malone (1995)</li></ol>"
+			},
+			media: {
+				url: "https://upload.wikimedia.org/wikipedia/commons/a/a1/171207_Camila_Cabello_for_MTV_International.png",
+				caption: "Camila Cabello",
+				thumbnail: "https://upload.wikimedia.org/wikipedia/commons/2/25/Font_M.svg"
+			},
+		};
+		var timeline_json = {
+			events: [lost_early, lost_mid, lost_late,
+				gi_early, gi_mid, gi_late,
+				silent_early, silent_mid, silent_late,
+				boomer_early, boomer_mid, boomer_late,
+				gen_x_early, gen_x_mid, gen_x_late,
+				millennial_early, millennial_mid, millennial_late],
+			eras: [lost, gi, silent, boomer, gen_x, millennial]
+		};
+		var options = {
+		};
+		window.timeline = new TL.Timeline('timeline-embed', timeline_json, options);
+	</script>
