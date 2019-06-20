@@ -9,7 +9,7 @@ navigation_weight: 3
     {% for p in navigation_pages %}
       {% if p.navigation_weight %}
         <li>
-          <a href="mike-gen/"+"{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+          <a href="{{ p.url | prepend: ‘mike-gen‘}}" {% if p.url == page.url %}class="active"{% endif %}>
             {{ p.title }}
           </a>
         </li>
