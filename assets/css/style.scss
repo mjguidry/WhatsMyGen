@@ -26,7 +26,7 @@
     position: absolute;
     top: 30px;
     left: 0;
-    width: 25%;
+    width: 100%;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -54,7 +54,7 @@
     position: relative;
     float: left;
     height: 30px;
-    width: 25%;
+    width: 100%;
     background: #999999;
 }
 .top-level-menu > li:hover { background: #CCCCCC; }
