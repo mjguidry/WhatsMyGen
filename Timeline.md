@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 navigation_weight: 3
 ---
 ### Timeline
