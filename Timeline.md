@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Timeline
 navigation_weight: 3
 ---
-
+### Timeline
 {% include Timeline.html %}
