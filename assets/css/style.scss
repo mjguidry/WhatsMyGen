@@ -18,6 +18,7 @@
 .third-level-menu > li
 {
     height: 30px;
+    padding: 0;
     background: #999999;
     list-style: none;
 }
@@ -38,6 +39,7 @@
 .second-level-menu > li
 {
     position: relative;
+    padding: 0;
     text-align: left;
     height: 30px;
     background: #999999;
@@ -56,6 +58,7 @@
 .top-level-menu > li
 {
     position: relative;
+    padding: 0;
     text-align: left;
     float: left;
     height: 30px;
