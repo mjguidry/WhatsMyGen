@@ -1,6 +1,6 @@
 ---
 layout: default_timeline
-title: Home
+title: MikeGen
 navigation_weight: 1
 ---
 # MikeGen
