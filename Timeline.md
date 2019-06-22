@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_timeline
 navigation_weight: 3
 ---
 
