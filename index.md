@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default_timeline
 title: Home
 navigation_weight: 1
 ---
