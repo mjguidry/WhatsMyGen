@@ -3,8 +3,6 @@ layout: default
 title: MikeGen
 navigation_weight: 1
 ---
-# MikeGen
-
 Welcome to MikeGen!
 
 This is a fun little site, which uses my own definitions for each generation, and for smaller sub-generations (which I think better define a birth cohort with common traits).
