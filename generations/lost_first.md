@@ -8,7 +8,6 @@ datatable: true
 
 ### People
 <div class="datatable-begin"></div>
-
 Rank | Name                                  | Significance 
 ---- | ------------------------------------- | -------- 
 1    | William Faulkner (1897)               | 87.4    
