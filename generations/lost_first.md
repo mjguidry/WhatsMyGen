@@ -10,14 +10,14 @@ title: MikeGen
 
 Rank | Name                                  | Significance 
 ---- | ------------------------------------- | -------- 
-1    | William Faulkner (1897)               | Fruit    
-2    | F. Scott Fitzgerald (1896)            | Fruit    
-3    | John Ford (1894)                      | Fruit    
-4    | Martha Graham (1894)                  | Fruit    
-5    | Henry Cowell (1897)                   | Fruit    
-6    | Max Horkheimer (1895)                 | Fruit    
-7    | Babe Ruth (1895)                      | Fruit    
-8    | Josef von Sternberg (1894)            | Fruit 
-9    | J. Edgar Hoover (1895)                | Fruit    
-10   | Allen Dulles (1893)                   | Fruit 
+1    | William Faulkner (1897)               | 87.4    
+2    | F. Scott Fitzgerald (1896)            | 86.6   
+3    | John Ford (1894)                      | 85.7    
+4    | Martha Graham (1894)                  | 84.6   
+5    | Henry Cowell (1897)                   | 84.4    
+6    | Max Horkheimer (1895)                 | 81.0    
+7    | Babe Ruth (1895)                      | 80.6    
+8    | Josef von Sternberg (1894)            | 80.3 
+9    | J. Edgar Hoover (1895)                | 79.9    
+10   | Allen Dulles (1893)                   | 79.8 
 <div class="datatable-end"></div>
