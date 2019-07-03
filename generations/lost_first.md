@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MikeGen
+datatable: true
 ---
 ### First Lost
 #### 1892 to 1897
