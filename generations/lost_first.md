@@ -1,13 +1,12 @@
 ---
 layout: default
 title: MikeGen
-datatable: true
 ---
 ### First Lost
 #### 1892 to 1897
 
 ### People
-<div class="datatable-begin"></div>
+
 Rank | Name                                  | Significance 
 ---- | ------------------------------------- | -------- 
 1    | William Faulkner (1897)               | 87.4    
@@ -20,4 +19,4 @@ Rank | Name                                  | Significance
 8    | Josef von Sternberg (1894)            | 80.3 
 9    | J. Edgar Hoover (1895)                | 79.9    
 10   | Allen Dulles (1893)                   | 79.8 
-<div class="datatable-end"></div>
+
