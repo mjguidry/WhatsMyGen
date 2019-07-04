@@ -10,13 +10,13 @@ This tier would be considered fully ancestral, as there are no living Americans 
 
 Rank | Name                                  | Significance 
 ---- | ------------------------------------- | -------- 
-1    | Ernest Hemingway (1899) |    
-2    | Walt Disney (1901) |    
-3    | Louis Armstrong (1901) |    
-4    | George Gershwin (1898) |    
-5    | Duke Ellington (1899) |    
-6    | John Steinbeck (1902) |    
-7    | Aaron Copland (1900) |    
-8    | Ansel Adams (1902) |    
-9    | Bob Hope (1903) |    
-10   | Bing Crosby (1903) |    
+1    | Ernest Hemingway (1899) |  89.3  
+2    | Walt Disney (1901) |    88.6
+3    | Louis Armstrong (1901) |  87.6  
+4    | George Gershwin (1898) |    87.3
+5    | Duke Ellington (1899) |    87.2
+6    | John Steinbeck (1902) |    86.9
+7    | Aaron Copland (1900) |   86.0 
+8    | Ansel Adams (1902) |    84.7
+9    | Bob Hope (1903) |    82.0
+10   | Bing Crosby (1903) |    81.7
