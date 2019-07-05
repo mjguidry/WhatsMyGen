@@ -10,7 +10,7 @@ This tier would be considered fully ancestral, as there are no living Americans 
 
 Rank | Name                                  | Significance 
 ---- | ------------------------------------- | -------- 
-1    | Ernest Hemingway (1899) |  89.3  
+1    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg" height="100" />Ernest Hemingway (1899) |  89.3  
 2    | Walt Disney (1901) |    88.6
 3    | Louis Armstrong (1901) |  87.6  
 4    | George Gershwin (1898) |    87.3
