@@ -2,21 +2,21 @@
 layout: default
 title: MikeGen
 ---
-### Middle Lost
+### Lost Generation: Middle
 #### 1898 to 1903
 This tier would be considered fully ancestral, as there are no living Americans from this tier. The last known member of this tier was [Delphine Gibson](https://gerontology.wikia.org/wiki/Delphine_Gibson), who passed away in 2018.
 
 ### People
 
-Rank | Name                                  | Significance 
----- | ------------------------------------- | -------- 
-1    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg" height="100" />Ernest Hemingway (1899) |  89.3  
-2    | Walt Disney (1901) |    88.6
-3    | Louis Armstrong (1901) |  87.6  
-4    | George Gershwin (1898) |    87.3
-5    | Duke Ellington (1899) |    87.2
-6    | John Steinbeck (1902) |    86.9
-7    | Aaron Copland (1900) |   86.0 
-8    | Ansel Adams (1902) |    84.7
-9    | Bob Hope (1903) |    82.0
-10   | Bing Crosby (1903) |    81.7
+Rank |     | Name                                  | Significance 
+---- | --- | ---------------------------------- | -------- 
+1    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg" height="128" />| [Ernest Hemingway (1899)](https://en.wikipedia.org/wiki/Ernest_Hemingway) |  89.3  
+2    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG" height="128" />| [Walt Disney (1901)](https://en.wikipedia.org/wiki/Walt_Disney) |    88.6
+3    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Louis_Armstrong_restored.jpg" height="128" /> | [Louis Armstrong (1901)](https://en.wikipedia.org/wiki/Louis_Armstrong) |  87.6  
+4    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/George_Gershwin_1937.jpg" height="128" /> | [George Gershwin (1898)](https://en.wikipedia.org/wiki/George_Gershwin) |    87.3
+5    | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Ellington_-_publicity.JPG" height="128" /> | [Duke Ellington (1899)](https://en.wikipedia.org/wiki/Duke_Ellington) |    87.2
+6    | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/John_Steinbeck_1962.jpg" height="128" /> | [John Steinbeck (1902)](https://en.wikipedia.org/wiki/John_Steinbeck) |    86.9
+7    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Aaron_Copland_1970.JPG" height="128" /> | [Aaron Copland (1900)](https://en.wikipedia.org/wiki/Aaron_Copland) |   86.0 
+8    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansel_Adams_and_camera.jpg" height="128" /> | [Ansel Adams (1902)](https://en.wikipedia.org/wiki/Ansel_Adams) |    84.7
+9    | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Bob_Hope%2C_1978.jpg" height="128" /> | [Bob Hope (1903)](https://en.wikipedia.org/wiki/Bob_Hope) |    82.0
+10   | <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Bing_Crosby_1951.jpg" height="128" /> | [Bing Crosby (1903)](https://en.wikipedia.org/wiki/Bing_crosby) |    81.7
