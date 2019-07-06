@@ -2,7 +2,7 @@
 layout: default
 title: MikeGen
 ---
-### First Lost
+### Lost Generation: First
 #### 1892 to 1897
 This tier would be considered fully ancestral, as there are no living Americans from this tier. The last known member of this tier was [Besse Cooper](https://en.wikipedia.org/wiki/Besse_Cooper), who passed away in 2012.
 
