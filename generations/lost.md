@@ -8,11 +8,11 @@ title: MikeGen
 >“That’s what you are. That’s what you all are,” Miss Stein said. “All of you young people who served in the war. You are a **lost generation**.”
 
 <br>
-<div style="text-align: right"> <cite>A Moveable Feast</cite>, Ernest Hemingway </div>
+<div style="text-align: right"> <em>A Moveable Feast</em>, Ernest Hemingway </div>
 <br>  
   
 The term "Lost Generation" has been applied to either a group of expatriate writers living in Paris in the 1920s, or more broadly to the generation that experienced the horrors of World War I firsthand, as in the quote above. For this site, the **Lost** generation is the group of people who were born between 1892 and 1909. This would be those who came of age leading up to or during WWI, or in the "Roaring Twenties" that followed. 
 
-- [First Lost](/mike-gen/generations/lost_first.md) (1892-1897)
-- [Middle Lost](/mike-gen/generations/lost_middle.md) (1898-1903)
-- [Young Lost](/mike-gen/generations/lost_young.md) (1904-1909)
+- [First Lost](/mike-gen/generations/lost_first.html) (1892-1897)
+- [Middle Lost](/mike-gen/generations/lost_middle.html) (1898-1903)
+- [Young Lost](/mike-gen/generations/lost_young.html) (1904-1909)
