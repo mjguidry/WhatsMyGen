@@ -2,7 +2,10 @@
 layout: default
 title: MikeGen
 ---
-### The Greatest Generation
+<a href="/mike-gen/generations/lost.html" class="next">&laquo; Lost Generation (1892-1909)</a><span style="text-align: right"> <a href="/mike-gen/generations/silent.html" class="next">Silent Generation (1928-1945) &raquo;</a></span>
+
+### Greatest Generation
+#### 1910 to 1927
 >During NBC's coverage of the fiftieth anniversary of D-Day, I was asked by Tim Russert on <em>Meet the Press</em> my thoughts on what we were witnessing. As I looked over the assembled crowd of veterans, which included everyone from Cabinet officers and captains of industry to retired schoolteachers and machinists, I said, "I think this is the **greatest generation** any society has ever produced." I know that this was a bold statement and a sweeping judgement, but since then I have restated it on many occassions. While I am periodicallly challenged on this premise, I believe I have the facts on my side.
 
 <br>
