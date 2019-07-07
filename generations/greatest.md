@@ -2,7 +2,7 @@
 layout: default
 title: MikeGen
 ---
-<a href="/mike-gen/generations/lost.html" class="next">&laquo; Lost Generation (1892-1909)</a><span style="text-align: right"> <a href="/mike-gen/generations/silent.html" class="next">Silent Generation (1928-1945) &raquo;</a></span>
+<a href="/mike-gen/generations/lost.html" class="previous" style="float: left !important">&laquo; Lost Generation (1892-1909)</a><a href="/mike-gen/generations/silent.html" class="next" style="float: right !important">Silent Generation (1928-1945) &raquo;</a>
 
 ### Greatest Generation
 #### 1910 to 1927
