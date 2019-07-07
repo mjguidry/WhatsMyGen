@@ -2,9 +2,10 @@
 layout: default
 title: MikeGen
 ---
+<div style="text-align: right"> <a href="/mike-gen/generations/greatest.html" class="next">Greatest Generation (1910-1927) &raquo;</a></div>
+
 ### Lost Generation 
 #### 1892 - 1909
-<div style="text-align: right"> <a href="/mike-gen/generations/greatest.html" class="next">Greatest Generation (1910-1927) &raquo;</a></div>
 
 >It was when we had come back from Canada and were living in the rue Notre-Dame-des-Champs and Miss Stein and I were still good friends that Miss Stein made the remark about the **lost generation**. She had some ignition trouble with the old Model T Ford she then drove and the young man who worked in the garage and had served in the last year of the war had not been adept, or perhaps had not broken the priority of other vehicles, in repairing Miss Stein’s Ford. Anyway he had not been sérieux and had been corrected severely by the patron of the garage after Miss Stein’s protest. The patron had said to him, “You are all a génération perdue.”
 >
