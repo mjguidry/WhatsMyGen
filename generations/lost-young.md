@@ -2,7 +2,9 @@
 layout: default
 title: MikeGen
 ---
-### Lost Generation: Young
+<div style="overflow: hidden"><a href="/mike-gen/generations/lost-middle.html" class="previous" style="float: left !important">&laquo; Middle Lost (1898-1903)</a><a href="/mike-gen/generations/greatest-first.html" class="next" style="float: right !important">First Greatest (1910-1915) &raquo;</a></div>
+<br>
+### Lost Generation: Young tier
 #### 1904 - 1909
 According to the [Gerontology Research Group](http://supercentenarian-research-foundation.org/TableE.aspx), there are at least 7 confirmed living Americans within this tier, so it has not yet passed to the ages. 
 
