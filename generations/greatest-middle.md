@@ -19,6 +19,6 @@ Rank |     | Name                               | Significance
 5    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Nancy_Reagan.jpg" width="165" /> | [Nancy Reagan (1921)](https://en.wikipedia.org/wiki/Nancy_Reagan) | 83.9
 6    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonard_Bernstein_by_Jack_Mitchell.jpg" width="165" /> | [Leonard Bernstein (1918)](https://en.wikipedia.org/wiki/Leonard_Bernstein) | 83.4
 7    | <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Isaac.Asimov01.jpg" width="165" /> | [Isaac Asimov (1920)](https://en.wikipedia.org/wiki/Isaac_Asimov) | 83.2
-8    | <img src="" width="165" /> | [John L. Hess (1917)](https://en.wikipedia.org/wiki/John_L._Hess) | 83.0
+8    | <img src="https://fair.org/wp-content/uploads/2005/03/hess.jpg" width="165" /> | [John L. Hess (1917)](https://en.wikipedia.org/wiki/John_L._Hess) | 83.0
 9    | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Billy_Graham_bw_photo%2C_April_11%2C_1966.jpg" width="165" /> | [Billy Graham (1918)](https://en.wikipedia.org/wiki/Billy_Graham) | 82.2
 10   | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Robert_McNamara_official_portrait.jpg" width="165" /> | [Robert McNamara (1916)](https://en.wikipedia.org/wiki/Robert_McNamara) | 81.4
