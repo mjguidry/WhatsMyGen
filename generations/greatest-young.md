@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Greatest Generation: Young tier
 #### 1922 to 1927
-In 2018, this tier would be those Americans between 91 and 96 years old. The U.S. Census Bureau estimates that there were 1,768,099 Americans in this age range. 
+In 2019, this tier would be those Americans between 92 and 97 years old. The U.S. Census Bureau estimates that there were 1,768,099 people in this tier in 2018. 
 
 ### People
 
@@ -21,4 +21,4 @@ Rank |     | Name                               | Significance
 7    | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Robert_Altman_02_%28cropped%29.jpg" width="165" /> | [Robert Altman (1925)](https://en.wikipedia.org/wiki/Robert_Altman) | 85.6
 8    | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Roy_Lichtenstein.jpg" width="165" /> | [Roy Lichtenstein (1923)](https://en.wikipedia.org/wiki/Roy_Lichtenstein) | 85.3
 9    | <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Judy_Garland_1943_publicity_photo.jpg" width="165" /> | [Judy Garland (1922)](https://en.wikipedia.org/wiki/Judy_Garland) | 84.4
-10   | <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Miles_Davis_by_Palumbo_cropped.jpg" width="165" /> | [Miles Davis (1926)](https://en.wikipedia.org/wiki/Miles_Davis) | 83.7
+10   | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/HarperLee_2007Nov05.jpg" width="165" /> | [Harper Lee (1926)](https://en.wikipedia.org/wiki/Harper_Lee) | 84.0
