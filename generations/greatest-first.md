@@ -17,8 +17,9 @@ Rank |     | Name                               | Significance
 3    | <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Orson_Welles_1937.jpg" width="165" /> | [Orson Welles (1915)](https://en.wikipedia.org/wiki/Orson_Welles) | 89.0
 4    | <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg" width="165" /> | [Gerald Ford (1913)](https://en.wikipedia.org/wiki/Gerald_Ford) | 88.5
 5    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Portrait_of_Milton_Friedman.jpg" width="165" /> | [Milton Friedman (1912)](https://en.wikipedia.org/wiki/Milton_Friedman) | 88.3
-6    | <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Namuth_-_Pollock.jpg" width="165" /> | [Jackson Pollock (1912)](https://en.wikipedia.org/wiki/Jackson_Pollock) | 86.8
-7    | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Frank_Sinatra_%2757.jpg" width="165" /> | [Frank Sinatra (1915)](https://en.wikipedia.org/wiki/Frank_Sinatra) | 86.4
-8    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/John_Cage_%281988%29.jpg" width="165" /> | [John Cage (1912)](https://en.wikipedia.org/wiki/John_Cage) | 86.4
-9    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Eero-Saarinen.jpg" width="165" /> | [Eero Saarinen (1910)](https://en.wikipedia.org/wiki/Eero_Saarinen) | 82.3
-10   | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arthur-miller.jpg" width="165" /> | [Arthur Miller (1915)](https://en.wikipedia.org/wiki/Arthur_Miller) | 81.5
+6    | <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tennessee_Williams_NYWTS.jpg" width="165" /> | [Tennessee Williams (1911)](https://en.wikipedia.org/wiki/Tennessee_Williams) | 87.4
+7    | <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Namuth_-_Pollock.jpg" width="165" /> | [Jackson Pollock (1912)](https://en.wikipedia.org/wiki/Jackson_Pollock) | 86.8
+8    | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Frank_Sinatra_%2757.jpg" width="165" /> | [Frank Sinatra (1915)](https://en.wikipedia.org/wiki/Frank_Sinatra) | 86.4
+9    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/John_Cage_%281988%29.jpg" width="165" /> | [John Cage (1912)](https://en.wikipedia.org/wiki/John_Cage) | 86.4
+10   | <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Eero-Saarinen.jpg" width="165" /> | [Eero Saarinen (1910)](https://en.wikipedia.org/wiki/Eero_Saarinen) | 82.3
+
