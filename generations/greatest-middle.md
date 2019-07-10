@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Greatest Generation: Middle tier
 #### 1916 to 1921
-In 2018, this tier would be those Americans between 97 and 102 years old. The U.S. Census Bureau estimates that there were 243,824 Americans between the ages of 97 and 99, and most of the 93,927 people that were 100+ years old would also be in this tier. 
+In 2019, this tier would be those Americans between 98 and 103 years old. The U.S. Census Bureau estimates that there were 243,824 people between the ages of 97 and 99 in 2018, and most of the 93,927 people that were 100+ years old would also be in this tier. 
 
 ### People
 
