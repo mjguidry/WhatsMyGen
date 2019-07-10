@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Silent Generation: Middle tier
 #### 1934 to 1939
-In 2019, this tier would be those Americans between 80 and 85 years old. The U.S. Census Bureau estimates that there were 7,670,175 Americans in this tier in 2018. 
+In 2019, this tier would be those Americans between 80 and 85 years old. The U.S. Census Bureau estimates that there were 7,670,175 people in this tier in 2018. 
 
 ### People
 
