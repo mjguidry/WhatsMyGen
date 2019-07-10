@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Lost Generation: Young tier
 #### 1904 - 1909
-According to the [Gerontology Research Group](http://supercentenarian-research-foundation.org/TableE.aspx), there are at least 7 confirmed living Americans within this tier, so it has not yet passed to the ages. 
+According to the [Gerontology Research Group](http://supercentenarian-research-foundation.org/TableE.aspx), as of 2019 there are at least 7 confirmed living Americans within this tier, so it has not yet passed to the ages. 
 
 ### People
 
@@ -20,5 +20,5 @@ Rank |     | Name                               | Significance
 6    | <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Bette_Davis_-_Photoplay%2C_June_1938.jpg" width="165" /> | [Bette Davis (1908)](https://en.wikipedia.org/wiki/Bette_Davis) | 81.7
 7    | <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Ted_Geisel_NYWTS_2_crop.jpg" width="165" /> | [Dr. Seuss (1904)](https://en.wikipedia.org/wiki/Dr_Suess) | 81.6
 8    | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Barry_Goldwater_photo1962.jpg" width="165" /> | [Barry Goldwater (1909)](https://en.wikipedia.org/wiki/Barry_Goldwater) | 81.6
-9    | <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Gloria_Swanson_%26_Billy_Wilder_-_ca._1950.JPG" width="165" /> | [Billy Wilder (1906)](https://en.wikipedia.org/wiki/Billy_Wilder) | 81.3
-10   | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Howard_Hughes_1938.jpg" width="165" /> | [Howard Hughes (1905)](https://en.wikipedia.org/wiki/Howard_Hughes) | 81.0
+9    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Howard_Hughes_1938.jpg" width="165" /> | [Howard Hughes (1905)](https://en.wikipedia.org/wiki/Howard_Hughes) | 81.0
+10   | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Joseph_McCarthy_adjusted.jpg" width="165" /> | [Joseph McCarthy (1908))](https://en.wikipedia.org/wiki/Joseph_McCarthy) | 81.0
