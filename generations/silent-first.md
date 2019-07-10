@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Silent Generation: First tier
 #### 1928 to 1933
-In 2018, this tier would be those Americans between 85 and 90 years old. The U.S. Census Bureau estimates that there were 4,438,653 Americans in this age range. 
+In 2019, this tier would be those Americans between 86 and 91 years old. The U.S. Census Bureau estimates that there were 4,438,653 people in this tier in 2018. 
 
 ### People
 
@@ -21,4 +21,4 @@ Rank |     | Name                               | Significance
 7    | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Thomas_Sowell_cropped.jpg" width="165" /> | [Thomas Sowell (1930)](https://en.wikipedia.org/wiki/Thomas_Sowell) | 84.7
 8    | <img src="https://upload.wikimedia.org/wikipedia/en/1/1c/Rorty.jpg" width="165" /> | [Richard Rorty (1931)](https://en.wikipedia.org/wiki/Richard_Rorty) | 84.4
 9    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Author_John_Barth_%2846716317801%29.jpg" width="165" /> | [John Barth (1930)](https://en.wikipedia.org/wiki/John_Barth) | 84.1
-10   | <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/KubrickForLook_%28cropped%29.jpg" width="165" /> | [Stanley Kubrick (1928)](https://en.wikipedia.org/wiki/Stanley_Kubrick) | 83.7
+10   | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Chuck_Grassley_official_photo_2017.jpg" width="165" /> | [Chuck Grassley (1933)](https://en.wikipedia.org/wiki/Chuck_Grassley) | 83.8
