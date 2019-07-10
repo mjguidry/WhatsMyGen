@@ -21,4 +21,4 @@ Rank |     | Name                               | Significance
 7    | <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Ted_Geisel_NYWTS_2_crop.jpg" width="165" /> | [Dr. Seuss (1904)](https://en.wikipedia.org/wiki/Dr_Suess) | 81.6
 8    | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Barry_Goldwater_photo1962.jpg" width="165" /> | [Barry Goldwater (1909)](https://en.wikipedia.org/wiki/Barry_Goldwater) | 81.6
 9    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Howard_Hughes_1938.jpg" width="165" /> | [Howard Hughes (1905)](https://en.wikipedia.org/wiki/Howard_Hughes) | 81.0
-10   | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Joseph_McCarthy_adjusted.jpg" width="165" /> | [Joseph McCarthy (1908))](https://en.wikipedia.org/wiki/Joseph_McCarthy) | 81.0
+10   | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Joseph_McCarthy_adjusted.jpg" width="165" /> | [Joseph McCarthy (1908)](https://en.wikipedia.org/wiki/Joseph_McCarthy) | 81.0
