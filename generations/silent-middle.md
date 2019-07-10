@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Silent Generation: Middle tier
 #### 1934 to 1939
-In 2018, this tier would be those Americans between 79 and 84 years old. The U.S. Census Bureau estimates that there were 7,670,175 Americans in this age range. 
+In 2019, this tier would be those Americans between 80 and 85 years old. The U.S. Census Bureau estimates that there were 7,670,175 Americans in this tier in 2018. 
 
 ### People
 
@@ -20,6 +20,7 @@ Rank |     | Name                               | Significance
 6    | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Philip_Glass_in_Florence%2C_Italy_-_1993.jpg" width="165" /> | [Philip Glass (1937)](https://en.wikipedia.org/wiki/Philip_Glass) | 85.3
 7    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Colin_Powell_official_Secretary_of_State_photo.jpg" width="165" /> | [Colin Powell (1937)](https://en.wikipedia.org/wiki/Colin_Powell) | 84.6
 8    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Don_delillo_nyc_02-cropped.jpg" width="165" /> | [Don DeLillo (1936)](https://en.wikipedia.org/wiki/Don_DeLillo) | 84.2
-9    | <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Woody_Allen_Cannes_2016.jpg" width="165" /> | [Woody Allen (1935)](https://en.wikipedia.org/wiki/Woody_Allen) | 83.9
-10   | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Edmund_G_Brown_Jr.jpg" width="165" /> | [Jerry Brown (1938)](https://en.wikipedia.org/wiki/Jerry_Brown) | 83.3
+9    | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Steny_Hoyer%2C_official_photo_as_Whip.jpg" width="165" /> | [Steny Hoyer (1939)](https://en.wikipedia.org/wiki/Steny_Hoyer) | 84.0
+10    | <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Woody_Allen_Cannes_2016.jpg" width="165" /> | [Woody Allen (1935)](https://en.wikipedia.org/wiki/Woody_Allen) | 83.9
+
 
