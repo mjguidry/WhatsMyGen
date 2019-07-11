@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Greatest Generation: First tier
 #### 1910 to 1915
-As of 2018, the U.S. Census Bureau estimates about 93,927 Americans above the age of 100; the number of people still living in this tier would be some fraction of this.
+In 2019, this tier would be those Americans between 104 and 109 years old. As of 2018, the U.S. Census Bureau estimated about 93,927 Americans above the age of 100; the number of people still living in this tier would be some fraction of this.
 
 ### People
 
