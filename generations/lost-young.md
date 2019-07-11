@@ -6,7 +6,7 @@ title: MikeGen
 <br>
 ### Lost Generation: Young tier
 #### 1904 - 1909
-According to the [Gerontology Research Group](http://supercentenarian-research-foundation.org/TableE.aspx), as of 2019 there are at least 7 confirmed living Americans within this tier, so it has not yet passed to the ages. 
+In 2019, this tier would be those Americans above 110 years old. According to the [Gerontology Research Group](http://supercentenarian-research-foundation.org/TableE.aspx), as of 2019 there are at least 7 confirmed living Americans within this tier, so it has not yet passed to the ages. 
 
 ### People
 
