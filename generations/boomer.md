@@ -7,6 +7,12 @@ title: MikeGen
 ### Boomer Generation
 #### 1946 to 1963
 <br>
+>**Baby Boomers**, Grown Up, Storm Ivy-Covered Walls
+
+<div style="text-align: right"> Leslie J. Nason, <em>Daily Press</em> (Newport News), 28 Jan 1963, p. 11 </div> 
+<br>
+
+The quoted newspaper article above was in reference to the "tidal wave" of new college enrollees that were expected when the post WWII baby boom started to reach adulthood. For this site, the **Boomer Generation** are those Americans born in the 18 years following World War II, from 1946 to 1963. 
 - [First Boomer](/mike-gen/generations/boomer-first.html) (1946-1951)
 - [Middle Boomer](/mike-gen/generations/boomer-middle.html) (1952-1957)
 - [Young Boomer](/mike-gen/generations/boomer-young.html) (1958-1963)
