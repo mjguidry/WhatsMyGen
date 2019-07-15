@@ -65,7 +65,7 @@
     text-align: left;
     float: left;
     height: 30px;
-    width: 25%;
+    width: auto;
     background: #999999;
     list-style: none;
 }
@@ -90,7 +90,6 @@
     /* Make the link cover the entire list item-container */
     display: block;
     line-height: 30px;
-    width: 100%
 }
 .top-level-menu a:hover { color: #000000; }
 
