@@ -9,7 +9,7 @@ title: MikeGen
 <br>
 >At the other end are our **Millennial Generation** children, born in the mid-1980s, about whose future adult Americans of all ages are beginning to worry.
 
-<div style="text-align: right"> <em>Generations: The History of America's Future, 1584 to 2069</em>, Neil Howe and William Strauss </div> 
+<div style="text-align: right"> <em>Generations: The History of America's Future, 1584 to 2069</em><br>Neil Howe and William Strauss </div> 
 <br>  
 The 1992 book quoted above used a new name for the then oncoming generation, a name which seems to have won out over the derivative "Generation Y" term that some had been proposing. For this site, the **Millennial Generation** are those Americans who would have reached adulthood at the beginning of the new millenium, those born between 1982 and 1999.
 
