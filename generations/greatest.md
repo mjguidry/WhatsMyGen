@@ -11,7 +11,7 @@ title: MikeGen
 
 <div style="text-align: right"> <em>The Greatest Generation</em>, Tom Brokaw </div> 
 <br>  
-The men and women who fought in WWII have sometimes been called the "World War II Generation" or the "G.I. Generation", but the term "Greatest Generation" seems to have become preferred, after Tom Brokaw's book. For this site, the **Greatest Generation** are those Americans born between 1910 and 1927, and so would have come of age during the Great Depression, or during WWII. 
+The men and women who fought in WWII have sometimes been called the "World War II Generation" or the "G.I. Generation", but the term "Greatest Generation" seems to have become preferred, after Tom Brokaw's book. For this site, the **Greatest Generation** are those Americans born between 1910 and 1927, and so would have entered adulthood during the Great Depression, or during WWII. 
 
 - [First Greatest](/mike-gen/generations/greatest-first.html) (1910-1915)
 - [Middle Greatest](/mike-gen/generations/greatest-middle.html) (1916-1921)
