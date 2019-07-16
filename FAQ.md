@@ -4,18 +4,18 @@ title: MikeGen
 ---
 ### FAQ
 #### 1. General
-<a href="#Q1.1">1.1 Why did you make this site?</a>
-<a href="#Q1.2">1.2 Are you serious?</a>
+<a href="#Q1.1">1.1 Why did you make this site?</a><br>
+<a href="#Q1.2">1.2 Are you serious?</a><br>
 #### 2. Generations
-2.1 Where do the names of the generations come from?
-2.2 Why do the generations start and end where they do?
-2.3 Why are there no generations before "Lost" or after "Millennial"?
+2.1 Where do the names of the generations come from?<br>
+2.2 Why do the generations start and end where they do?<br>
+2.3 Why are there no generations before "Lost" or after "Millennial"?<br>
 #### 3. Significance
-3.1 What do you mean by "significance"?
-3.2 I'm pretty sure person X is significant, why aren't they here?
-
-<a id="1">**1. General**</a>
-<a id="Q1.1">**1.1 Why did you make this site?**</a>
+3.1 What do you mean by "significance"?<br>
+3.2 I'm pretty sure person X is significant, why aren't they here?<br>
+<br>
+<a id="1">**1. General**</a><br>
+<a id="Q1.1">**1.1 Why did you make this site?**</a><br>
 This site is my attempt to respond to some of the issues with how social generations have been commonly defined. 
 
 One is that, while we have become familiar with terms like "Baby Boomer" and "Millennial", there is no universally agreed definition for each generation. Consider just a few sources:
@@ -34,6 +34,6 @@ Another issue arises with the uneven length of each generational definition. For
 
 Finally, there has been some feeling that the generational category itself is too wide, that no matter how a generation is defined, those at the beginning of the generation may not feel very connected to those at the end of it. A Baby Boomer born in 1946 had the possibility of being drafted for the Vietnam War; one born in 1960 would have reached adulthood after the war, and with no draft requirement in place. I came up with the "tier" idea to define a subset of a generation, one that would have all been in grade school together, and thus would have had more things in common than with the whole generation. The tier should be a more cohesive group than the whole generation.
   
-<a id="Q1.2">**1.2 Are you serious?**</a>
+<a id="Q1.2">**1.2 Are you serious?**</a><br>
 No, not really. I have no training in any kind of social science, and I am not trying to override anyone's serious work. This is meant to be fun, just something to help answer the questions above, in a personal way. 
   
