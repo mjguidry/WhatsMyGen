@@ -42,10 +42,10 @@ No, not really. I have no training in any kind of social science, and I am not t
 <a id="Q2.1">**2.1 Where do the names of the generations come from?**</a><br>
 I've tried to stick with what would be the most commonly recognized names, not that I like all of them. In particular, I like "G.I." Generation better than "Greatest", but the latter seems to have stuck.
 
-<a id="#Q2.2">**2.2 Why do the generations start and end where they do?**</a><br>
+<a id="Q2.2">**2.2 Why do the generations start and end where they do?**</a><br>
 In fairness, I could have used any dates and still been able to define 18-year generations. The two years that were used as markers were the end of WWII (1945) and the start of the new millenium (2000). It just so happens that this covers a 54 year span, which conveniently divides into three 18 year spans.
 
-<a id="#Q2.3">**2.3 Why are there no generations before "Lost" or after "Millennial"?**</a><br>
+<a id="Q2.3">**2.3 Why are there no generations before "Lost" or after "Millennial"?**</a><br>
 I am sticking with commonly recognized names, and there doesn't seem to be any names for the generations that came before the Lost generation.
 
 For the generation after the Millennials, there are two problems. One is that there is no common name for this group yet; "Post-Millennial" and "Gen Z" are both names that have been proposed, but are both derivative of previous generations. It may take some time for a name to settle.
