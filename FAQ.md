@@ -33,11 +33,25 @@ With no common definition, the person born in 1981 is left to wonder, "Am I Gen 
 
 Another issue arises with the uneven length of each generational definition. For example, when evaluating a claim such as "there are more voters in Generation A than in Generation B", the claim loses some of its impact if Generation A is defined to cover a 20 year span and Generation B, a 15 year span. At present, Pew Research defines the Boomer generation as a 19 year span and Gen X as 16 years; it would be amazing if the Boomer generation **weren't** larger, by that definition. By fixing each generation to 18 years, then the comparison between them should be more meaningful.
 
-Finally, there has been some feeling that the generational category itself is too wide, that no matter how a generation is defined, those at the beginning of the generation may not feel very connected to those at the end of it. A Baby Boomer born in 1946 had the possibility of being drafted for the Vietnam War; one born in 1960 would have reached adulthood after the war, and with no draft requirement in place. I came up with the "tier" idea to define a subset of a generation, one that would have all been in grade school together, and thus would have had more things in common than with the whole generation. The tier should be a more cohesive group than the whole generation.
+Finally, there has been some feeling that the generational category itself is too wide, that no matter how a generation is defined, those at the beginning of the generation may not feel very connected to those at the end of it. A Baby Boomer born in 1946 had the possibility of being drafted for the Vietnam War; one born in 1960 would have reached adulthood after the war, and with no draft requirement in place. I came up with the "tier" idea to define a subset of a generation, one that would have all been in grade school together, and thus would have had more things in common than with the whole generation. The tier should be a more cohesive group than the generation.
   
 <a id="Q1.2">**1.2 Are you serious?**</a><br>
 No, not really. I have no training in any kind of social science, and I am not trying to override anyone's serious work. This is meant to be fun, just something to help answer the questions above, in a personal way. 
-  
+
+<a id="Generations">**Generations**</a><br>
+<a id="Q2.1">**2.1 Where do the names of the generations come from?**</a><br>
+I've tried to stick with what would be the most commonly recognized names, not that I like all of them. In particular, I like "G.I." Generation better than "Greatest", but the latter seems to have stuck.
+
+<a id="#Q2.2">**2.2 Why do the generations start and end where they do?**</a><br>
+In fairness, I could have used any dates and still been able to define 18-year generations. The two years that were used as markers were the end of WWII (1945) and the start of the new millenium (2000). It just so happens that this covers a 54 year span, which conveniently divides into three 18 year spans.
+
+<a id="#Q2.3">**2.3 Why are there no generations before "Lost" or after "Millennial"?**</a><br>
+I am sticking with commonly recognized names, and there doesn't seem to be any names for the generations that came before the Lost generation.
+
+For the generation after the Millennials, there are two problems. One is that there is no common name for this group yet; "Post-Millennial" and "Gen Z" are both names that have been proposed, but are both derivative of previous generations. It may take some time for a name to settle.
+
+The other problem is that this generation is still mostly children, and so wouldn't rate very well on "significancy" (see below); it took a search through the top 5000 Americans before a list could even be made for the Young Millennials. It will take a few years before members of the next generation can make an impact in Wikipedia articles.
+
 <a id="Significance">**Significance**</a><br>
 <a id="Q3.1">**3.1 What do you mean by "significance"?**</a><br>
 The significance ratings are based off of the [The Open Wikipedia Ranking](http://wikirank-2019.di.unimi.it/index.html) project at the [Laboratory for Web Algorithmics](http://law.di.unimi.it/) of the [Università degli Studi di Milano](http://www.unimi.it/). This project builds a "link graph" from the Wikipedia weekly data dump, and then ranks pages based on a few different criteria. The default criterion is called "harmonic centrality", which starts with the number of links which point to that page, then then pages that point to those links, etc., with some scaling as the distance moves from the original page. The best analogy may be that harmonic centrality is a measure of how much the page "ripples" within the Wikipedia network.
