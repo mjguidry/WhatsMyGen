@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 26 and 31 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | Significance 
+Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Taylor_Swift_2_-_2019_by_Glenn_Francis_%28cropped%29_2.jpg" width="165" /> | [Taylor Swift (1989)](https://en.wikipedia.org/wiki/Taylor_Swift) | 87.5
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Chance_the_Rapper_2018_February.png" width="165" /> | [Chance the Rapper (1993)](https://en.wikipedia.org/wiki/Chance_the_Rapper) | 82.1
