@@ -10,7 +10,7 @@ This tier would be considered fully ancestral, as there are no living Americans 
 
 ### People
 
-Rank |     | Name                                  | Significance 
+Rank |     | Name                                  | <a href="/mike-gen/FAQ.html#Significance">Significance</a>
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg" width="165" />| [Ernest Hemingway (1899)](https://en.wikipedia.org/wiki/Ernest_Hemingway) |  89.3  
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG" width="165" />| [Walt Disney (1901)](https://en.wikipedia.org/wiki/Walt_Disney) |    88.6
