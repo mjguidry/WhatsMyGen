@@ -21,7 +21,7 @@ This site is my attempt to respond to some of the issues with how social generat
 
 One is that, while we have become familiar with terms like "Baby Boomer" and "Millennial", there is no universally agreed definition for each generation. Consider just a few sources:
 
-**Generation | Pew Research Center | Nielsen Ratings | Strauss and Howe**
+**Generation** | **Pew Research Center** | **Nielsen Ratings** | **Strauss and Howe**
 ---------- | ------------------- | ----------------| ----------- 
 Greatest   | 1901 to 1927        | 1917 to 1946    | 1901 to 1924
 Silent     | 1928 to 1945        | -               | 1925 to 1942
@@ -48,3 +48,10 @@ For each tier, those **Americans** with the ten highest harmonic centrality scor
 The first obvious reason would be that the harmonic centrality score for that person is not as high as one might expect.
 
 The other reason may be that the person may not be considered American. For immigrants, the guideline I have used is if they spent some part of their childhood in the U.S., then I have considered them "American", but not so if they immigrated as adults. This may get a little fuzzy if they moved back and forth during their childhood.
+
+<a id="Q3.3">**3.3 Why does there seem to be a bias as to who is considered significant?**</a><br>
+I think there are at least two kinds of bias that we could discuss in regards to Wikipedia articles. One of those is [political bias](https://en.wikipedia.org/wiki/Ideological_bias_on_Wikipedia), and I think there has been much discussion on this. One could argue that the fact that Barack Obama has the most significant article on Wikipedia could be an example of a political bias.
+
+There is another kind of bias which I think could be considered, which is a "recency" bias. However favorably one may consider Barack Obama, it may still be a stretch to consider his a more significant presidency then, say, Abraham Lincoln. While the Obama article may benefit from a political bias, it may benefit more in that this was a very recent president, and current Wikipedia editors may be able to contribute with more expertise than on an article about Abraham Lincoln.
+
+This recency bias may make it hard to compare "significancy" scores across tiers, since articles about people who are currently famous may get more attention than articles about those who have passed on. So it may be better to just consider the significancy within a tier, and not across tiers. By that measure, Ronald Reagan is the most significant person of the First Greatest tier, Barack Obama is the most significant of the Young Boomer tier, and that may be the most we can say based on significancy.
