@@ -1,4 +1,5 @@
    <script type="text/javascript">
+	   document.body.onload = addElement;
       var gens =
       ["First Lost",
       "Middle Lost",
@@ -49,17 +50,34 @@
 			      document.getElementById("myGen").innerHTML = "Your Generational Tier is: "+gens[idx];
 			      }
 			      }
+			      function addElement () {
+
+      var lbl = document.createElement("LABEL");
+      lbl.htmlFor = "year";
+      lbl.innerHTML = "Year of Birth (1892 to 1999):";
+      document.getElementById("main_content").appendChild(lbl);
+      var x = document.createElement("INPUT");
+      x.setAttribute("type", "number");
+      x.setAttribute("onchange", "myFunction(this.value)");
+      x.required = true;
+      x.min = 1892;
+x.max = 1999;
+			      document.getElementById("main_content").appendChild(x);
+			      var gt = document.createElement("H3");
+			      gt.id = "myGen"
+			      gt.innerHTML = "Your Generational Tier is:"
+			      document.getElementById("main_content").appendChild(gt);
+			      var img = document.createElement("img");
+			      img.id = "myImage";
+			      img.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png";
+			      img.width = "165";
+			      document.getElementById("main_content").appendChild(img);
+			      var p = document.createElement("p");
+			      var a = document.createElement("a");
+			      a.href = "";
+			      a.innerHTML = "About your generational tier"
+			      p.id = "gen_link"
+			      document.getElementById("main_content").appendChild(p);			      document.getElementById("gen_link").appendChild(a)
 			      
 			      </script>
-    <div>
-    <label for="year">Year of Birth (1892 to 1999):</label>
 
-    <input type="number" id="year" name="year" required
-	   min="1892" max="1999" onchange="myFunction(this.value)">
-    </div>
-    <div id="slide">
-      <h3 id="myGen"> Your Generational Tier is: </h3>
-
-      <img id="myImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png" width="165">
-      <p> <a href=""> About your generational tier </a> </p>
-    </div>
