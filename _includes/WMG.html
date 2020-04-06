@@ -1,0 +1,65 @@
+   <script>
+      var gens =
+      ["First Lost",
+      "Middle Lost",
+      "Young Lost",
+      "First Greatest",
+      "Middle Greatest",
+      "Young Greatest",
+      "First Silent",
+      "Middle Silent",
+      "Young Silent",
+      "First Boomer",
+      "Middle Boomer",
+      "Young Boomer",
+      "First GenX",
+      "Middle GenX",
+      "Young GenX",
+      "First Millennial",
+      "Middle Millennial",
+      "Young Millennial"];
+      var gen_img =
+      ["https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/90/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Bill_Gates_July_2014.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eminem_live_at_D.C._2014_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Beyonce_-_The_Formation_World_Tour%2C_at_Wembley_Stadium_in_London%2C_England.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Katy_Perry_2019_by_Glenn_Francis.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/63/Taylor_Swift_2_-_2019_by_Glenn_Francis_%28cropped%29_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lil_Uzi_Vert_2018.png"];
+      function myFunction(val)
+      {
+      if (val>=1892 && val <= 1999)
+        {
+	idx = Math.floor((val - 1892)/6);
+	console.log(`The field's value is ` +idx);
+			      console.log(gens[idx]);
+			      console.log(gen_img[idx]);
+			      document.getElementById("myImage").src = gen_img[idx];
+			      document.getElementById("myGen").innerHTML = "Your Generational Tier is: "+gens[idx];
+			      }
+			      }
+			      
+			      </script>
+    <div>
+    <label for="year">Year of Birth (1892 to 1999):</label>
+
+    <input type="number" id="year" name="year" required
+	   min="1892" max="1999" onchange="myFunction(this.value)">
+    </div>
+    <div id="slide">
+      <h3 id="myGen"> Your Generational Tier is: </h3>
+
+      <img id="myImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png" width="165">
+      <p> <a href=""> About your generational tier </a> </p>
+    </div>
