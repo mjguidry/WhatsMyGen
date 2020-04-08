@@ -7,7 +7,7 @@ Welcome to WhatsMyGen!
 
 This is a fun little site, which uses my own definitions for each generation, and for smaller sub-generations called "tiers" (which I think better define a birth cohort with common traits).
 
-For a simple start, just head over to the [WhatsMyGen](WMD.md) calculator, to find out your tier. 
+For a simple start, just head over to the [WhatsMyGen](WMG.md) calculator, to find out your tier. 
 
 To go further, you may want to read the [Definitions](Definitions.md), go straight to the [Generations](Generations.md) pages, or if you have any questions, head to the [FAQ](FAQ.md).
 
