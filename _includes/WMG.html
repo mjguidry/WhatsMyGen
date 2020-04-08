@@ -1,7 +1,7 @@
-   <script type="text/javascript">
-	   document.body.onload = addElement;
-      var gens =
-      ["First Lost",
+<script type="text/javascript">
+  document.body.onload = addElement;
+  var gens =
+    ["First Lost",
       "Middle Lost",
       "Young Lost",
       "First Greatest",
@@ -19,8 +19,8 @@
       "First Millennial",
       "Middle Millennial",
       "Young Millennial"];
-      var gen_img =
-      ["https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg",
+  var gen_img =
+    ["https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg",
@@ -38,47 +38,73 @@
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/Katy_Perry_2019_by_Glenn_Francis.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/6/63/Taylor_Swift_2_-_2019_by_Glenn_Francis_%28cropped%29_2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lil_Uzi_Vert_2018.png"];
-      function myFunction(val)
-      {
-      if (val>=1892 && val <= 1999)
-        {
-	idx = Math.floor((val - 1892)/6);
-	console.log(`The field's value is ` +idx);
-			      console.log(gens[idx]);
-			      console.log(gen_img[idx]);
-			      document.getElementById("myImage").src = gen_img[idx];
-			      document.getElementById("myGen").innerHTML = "Your Generational Tier is: "+gens[idx];
-			      }
-			      }
-			      
-function addElement () {
-      var lbl = document.createElement("LABEL");
-      lbl.htmlFor = "year";
-      lbl.innerHTML = "Year of Birth (1892 to 1999):";
-      document.getElementById("main_content").appendChild(lbl);
-      var x = document.createElement("INPUT");
-      x.setAttribute("type", "number");
-      x.setAttribute("onchange", "myFunction(this.value)");
-      x.required = true;
-      x.min = 1892;
-      x.max = 1999;
-			      document.getElementById("main_content").appendChild(x);
-			      var gt = document.createElement("H3");
-			      gt.id = "myGen"
-			      gt.innerHTML = "Your Generational Tier is:"
-			      document.getElementById("main_content").appendChild(gt);
-			      var img = document.createElement("img");
-			      img.id = "myImage";
-			      img.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png";
-			      img.width = "165";
-			      document.getElementById("main_content").appendChild(img);
-			      var p = document.createElement("p");
-			      var a = document.createElement("a");
-			      a.href = "";
-			      a.innerHTML = "About your generational tier"
-			      p.id = "gen_link"
-			      document.getElementById("main_content").appendChild(p);			      
-			      document.getElementById("gen_link").appendChild(a);
-}
-			      </script>
+  var gen_links = [
+    "/WhatsMyGen/generations/lost-first.html",
+    "/WhatsMyGen/generations/lost-middle.html",
+    "/WhatsMyGen/generations/lost-young.html",
+    "/WhatsMyGen/generations/greatest-first.html",
+    "/WhatsMyGen/generations/greatest-middle.html",
+    "/WhatsMyGen/generations/greatest-young.html",
+    "/WhatsMyGen/generations/silent-first.html",
+    "/WhatsMyGen/generations/silent-middle.html",
+    "/WhatsMyGen/generations/silent-young.html",
+    "/WhatsMyGen/generations/boomer-first.html",
+    "/WhatsMyGen/generations/boomer-middle.html",
+    "/WhatsMyGen/generations/boomer-young.html",
+    "/WhatsMyGen/generations/genx-first.html",
+    "/WhatsMyGen/generations/genx-middle.html",
+    "/WhatsMyGen/generations/genx-young.html",
+    "/WhatsMyGen/generations/millennial-first.html",
+    "/WhatsMyGen/generations/millennial-middle.html",
+    "/WhatsMyGen/generations/millennial-young.html",
+  ];
+  function myFunction(val) {
+    if (val >= 1892 && val <= 1999) {
+      idx = Math.floor((val - 1892) / 6);
+      document.getElementById("myImage").src = gen_img[idx];
+      document.getElementById("myGen").innerHTML = "Your Generational Tier is: " + gens[idx];
+      document.getElementById("gen_link").href = gen_links[idx];
+    }
+    else {
+      document.getElementById("myGen").innerHTML = "Your Generational Tier is: ";
+      document.getElementById("myImage").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png";
+      document.getElementById("gen_link").href = "";
+    }
+  }
 
+  function addElement() {
+    var lbl = document.createElement("LABEL");
+    lbl.htmlFor = "year";
+    lbl.innerHTML = "Year of Birth (1892 to 1999):";
+    document.getElementById("main_content").appendChild(lbl);
+
+    var x = document.createElement("INPUT");
+    x.setAttribute("type", "number");
+    x.setAttribute("onchange", "myFunction(this.value)");
+    x.required = true;
+    x.min = 1892;
+    x.max = 1999;
+    document.getElementById("main_content").appendChild(x);
+
+    var gt = document.createElement("H3");
+    gt.id = "myGen"
+    gt.innerHTML = "Your Generational Tier is:"
+    document.getElementById("main_content").appendChild(gt);
+
+    var img = document.createElement("img");
+    img.id = "myImage";
+    img.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png";
+    img.width = "165";
+    document.getElementById("main_content").appendChild(img);
+
+    var p = document.createElement("p");
+    p.id = "gen_p";
+    document.getElementById("main_content").appendChild(p);
+
+    var a = document.createElement("a");
+    a.href = "";
+    a.id = "gen_link"
+    a.innerHTML = "About your generational tier"
+    document.getElementById("gen_p").appendChild(a);
+  }
+</script>
