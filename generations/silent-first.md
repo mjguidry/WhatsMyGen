@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Silent Generation: First tier
 #### 1928 to 1933
-In 2019, this tier would be those Americans between 86 and 91 years old. The U.S. Census Bureau estimates that there were 4,438,653 people in this tier in 2018. 
+In 2020, this tier would be those Americans between 87 and 92 years old. The U.S. Census Bureau estimates that there were 4,438,653 people in this tier in 2018. 
 
 ### People
 

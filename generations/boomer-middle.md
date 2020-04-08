@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Boomer Generation: Middle tier
 #### 1952 to 1957
-In 2019, this tier would be those Americans between 62 and 67 years old. The U.S. Census Bureau estimates that there were 23,258,326 people in this tier in 2018. 
+In 2020, this tier would be those Americans between 63 and 68 years old. The U.S. Census Bureau estimates that there were 23,258,326 people in this tier in 2018. 
 
 ### People
 

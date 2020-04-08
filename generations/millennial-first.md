@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Millennial Generation: First tier
 #### 1982 to 1987
-In 2019, this tier would be those Americans between 32 and 37 years old. The U.S. Census Bureau estimates that there were 26,378,060 people in this tier in 2018. 
+In 2020, this tier would be those Americans between 33 and 38 years old. The U.S. Census Bureau estimates that there were 26,378,060 people in this tier in 2018. 
 
 ### People
 

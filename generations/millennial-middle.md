@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Millennial Generation: Middle tier
 #### 1988 to 1993
-In 2019, this tier would be those Americans between 26 and 31 years old. The U.S. Census Bureau estimates that there were 28,063,038 people in this tier in 2018. 
+In 2020, this tier would be those Americans between 27 and 32 years old. The U.S. Census Bureau estimates that there were 28,063,038 people in this tier in 2018. 
 
 ### People
 

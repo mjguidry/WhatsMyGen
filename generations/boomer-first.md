@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Boomer Generation: First tier
 #### 1946 to 1951
-In 2019, this tier would be those Americans between 68 and 73 years old. The U.S. Census Bureau estimates that there were 18,698,158 people in this tier in 2018. 
+In 2020, this tier would be those Americans between 69 and 74 years old. The U.S. Census Bureau estimates that there were 18,698,158 people in this tier in 2018. 
 
 ### People
 

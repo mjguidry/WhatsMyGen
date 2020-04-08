@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Silent Generation: Young tier
 #### 1940 to 1945
-In 2019, this tier would be those Americans between 74 and 79 years old. The U.S. Census Bureau estimates that there were 12,332,321 people in this tier in 2018. 
+In 2020, this tier would be those Americans between 75 and 80 years old. The U.S. Census Bureau estimates that there were 12,332,321 people in this tier in 2018. 
 
 ### People
 

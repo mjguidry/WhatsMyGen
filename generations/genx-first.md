@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Generation X: First tier
 #### 1964 to 1969
-In 2019, this tier would be those Americans between 50 and 55 years old. The U.S. Census Bureau estimates that there were 25,002,167 people in this tier in 2018. This represents a decline from the next oldest tier.
+In 2020, this tier would be those Americans between 51 and 56 years old. The U.S. Census Bureau estimates that there were 25,002,167 people in this tier in 2018. This represents a decline from the next oldest tier.
 
 ### People
 

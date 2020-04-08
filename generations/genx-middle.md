@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Generation X: Middle tier
 #### 1970 to 1975
-In 2019, this tier would be those Americans between 44 and 49 years old. The U.S. Census Bureau estimates that there were 24,460,296 people in this tier in 2018. This represents a decline from the next oldest tier.
+In 2020, this tier would be those Americans between 45 and 50 years old. The U.S. Census Bureau estimates that there were 24,460,296 people in this tier in 2018. This represents a decline from the next oldest tier.
 
 ### People
 
