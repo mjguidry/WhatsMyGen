@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="overflow: hidden"><a href="/mike-gen/generations/boomer-middle.html" class="previous" style="float: left !important">&laquo; Middle Boomers (1952-1957)</a><a href="/mike-gen/generations/genx-first.html" class="next" style="float: right !important">First Gen X (1964-1969) &raquo;</a></div>
 <br>

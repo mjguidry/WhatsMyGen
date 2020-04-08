@@ -1,9 +1,9 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 navigation_weight: 1
 ---
-Welcome to MikeGen!
+Welcome to WhatsMyGen!
 
 This is a fun little site, which uses my own definitions for each generation, and for smaller sub-generations called "tiers" (which I think better define a birth cohort with common traits).
 

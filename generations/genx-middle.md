@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="overflow: hidden"><a href="/mike-gen/generations/genx-first.html" class="previous" style="float: left !important">&laquo; First Gen X (1964-1969)</a><a href="/mike-gen/generations/genx-young.html" class="next" style="float: right !important">Young Gen X (1976-1981) &raquo;</a></div>
 <br>

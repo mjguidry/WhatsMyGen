@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="text-align: right"> <a href="/mike-gen/generations/greatest.html" class="next">Greatest Generation (1910-1927) &raquo;</a></div>
 <br>

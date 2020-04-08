@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="overflow: hidden"><a href="/mike-gen/generations/greatest-middle.html" class="previous" style="float: left !important">&laquo; Middle Greatest (1916-1921)</a><a href="/mike-gen/generations/silent-first.html" class="next" style="float: right !important">First Silent (1928-1933) &raquo;</a></div>
 <br>

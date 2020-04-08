@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 ### Generations
 - [Lost (1892 - 1909)](/mike-gen/generations/lost.html)

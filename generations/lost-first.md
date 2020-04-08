@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="overflow: hidden"><a href="/mike-gen/generations/lost-middle.html" class="next" style="float: right !important">Middle Lost (1898-1903) &raquo;</a></div>
 <br>

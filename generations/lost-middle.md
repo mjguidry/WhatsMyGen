@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="overflow: hidden"><a href="/mike-gen/generations/lost-first.html" class="previous" style="float: left !important">&laquo; First Lost (1892-1897)</a><a href="/mike-gen/generations/lost-young.html" class="next" style="float: right !important">Young Lost (1904-1909) &raquo;</a></div>
 <br>

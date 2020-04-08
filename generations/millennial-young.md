@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MikeGen
+title: WhatsMyGen
 ---
 <div style="overflow: hidden"><a href="/mike-gen/generations/millennial-middle.html" class="previous" style="float: left !important">&laquo; Middle Millennials (1988-1993)</a></div>
 <br>
