@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/boomer-young.html" class="previous" style="float: left !important">&laquo; Young Boomers (1958-1963)</a><a href="/mike-gen/generations/genx-middle.html" class="next" style="float: right !important">Middle Gen X (1970-1975) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/boomer-young.html" class="previous" style="float: left !important">&laquo; Young Boomers (1958-1963)</a><a href="/WhatsMyGen/generations/genx-middle.html" class="next" style="float: right !important">Middle Gen X (1970-1975) &raquo;</a></div>
 <br>
 ### Generation X: First tier
 #### 1964 to 1969
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 50 and 55 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg" width="165" /> | [Jay-Z (1969)](https://en.wikipedia.org/wiki/Jay-Z) | 87.6
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg" width="165" /> | [Michelle Obama (1964)](https://en.wikipedia.org/wiki/Michelle_Obama) | 84.5

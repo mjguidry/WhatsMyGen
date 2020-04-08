@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/silent-first.html" class="previous" style="float: left !important">&laquo; First Silent (1928-1933)</a><a href="/mike-gen/generations/silent-young.html" class="next" style="float: right !important">Young Silent (1940-1945) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/silent-first.html" class="previous" style="float: left !important">&laquo; First Silent (1928-1933)</a><a href="/WhatsMyGen/generations/silent-young.html" class="next" style="float: right !important">Young Silent (1940-1945) &raquo;</a></div>
 <br>
 ### Silent Generation: Middle tier
 #### 1934 to 1939
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 80 and 85 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg" width="165" /> | [Elvis Presley (1935)](https://en.wikipedia.org/wiki/Elvis_Presley) | 91.3
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/John_McCain_official_portrait_2009.jpg" width="165" /> | [John McCain (1936)](https://en.wikipedia.org/wiki/John_McCain) | 88.7

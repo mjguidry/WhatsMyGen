@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/lost-middle.html" class="next" style="float: right !important">Middle Lost (1898-1903) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/lost-middle.html" class="next" style="float: right !important">Middle Lost (1898-1903) &raquo;</a></div>
 <br>
 ### Lost Generation: First tier
 #### 1892 to 1897
@@ -10,7 +10,7 @@ This tier would be considered fully ancestral, as there are no living Americans 
 
 ### People
 
-Rank |     | Name                                  | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                                  | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ------------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg" width="165" /> | [William Faulkner (1897)](https://en.wikipedia.org/wiki/William_Faulkner) | 87.4    
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/F_Scott_Fitzgerald_1921.jpg" width="165" /> | [F. Scott Fitzgerald (1896)](https://en.wikipedia.org/wiki/F._Scott_Fitzgerald)            | 86.6   

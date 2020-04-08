@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/lost-middle.html" class="previous" style="float: left !important">&laquo; Middle Lost (1898-1903)</a><a href="/mike-gen/generations/greatest-first.html" class="next" style="float: right !important">First Greatest (1910-1915) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/lost-middle.html" class="previous" style="float: left !important">&laquo; Middle Lost (1898-1903)</a><a href="/WhatsMyGen/generations/greatest-first.html" class="next" style="float: right !important">First Greatest (1910-1915) &raquo;</a></div>
 <br>
 ### Lost Generation: Young tier
 #### 1904 - 1909
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans above 110 years old. According to th
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg" width="165" /> | [Lyndon B. Johnson (1908)](https://en.wikipedia.org/wiki/Lyndon_B._Johnson) | 91.3
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/John_Wayne_-_still_portrait.jpg" width="165" /> | [John Wayne (1907)](https://en.wikipedia.org/wiki/John_Wayne) | 87.4

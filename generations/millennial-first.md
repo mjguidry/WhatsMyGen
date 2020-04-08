@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/genx-young.html" class="previous" style="float: left !important">&laquo; Young Gen X (1976-1981)</a><a href="/mike-gen/generations/millennial-middle.html" class="next" style="float: right !important">Middle Millennials (1988-1993) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/genx-young.html" class="previous" style="float: left !important">&laquo; Young Gen X (1976-1981)</a><a href="/WhatsMyGen/generations/millennial-middle.html" class="next" style="float: right !important">Middle Millennials (1988-1993) &raquo;</a></div>
 <br>
 ### Millennial Generation: First tier
 #### 1982 to 1987
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 32 and 37 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Katy_Perry_2019_by_Glenn_Francis.jpg" width="165" /> | [Katy Perry (1984)](https://en.wikipedia.org/wiki/Katy_Perry) | 87.5
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Lady_Gaga_interview_2016.jpg" width="165" /> | [Lady Gaga (1986)](https://en.wikipedia.org/wiki/Lady_Gaga) | 85.2

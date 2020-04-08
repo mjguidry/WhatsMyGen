@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/lost-young.html" class="previous" style="float: left !important">&laquo; Young Lost (1904-1909)</a><a href="/mike-gen/generations/greatest-middle.html" class="next" style="float: right !important">Middle Greatest (1916-1921) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/lost-young.html" class="previous" style="float: left !important">&laquo; Young Lost (1904-1909)</a><a href="/WhatsMyGen/generations/greatest-middle.html" class="next" style="float: right !important">Middle Greatest (1916-1921) &raquo;</a></div>
 <br>
 ### Greatest Generation: First tier
 #### 1910 to 1915
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 104 and 109 years old. As of
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg" width="165" /> | [Ronald Reagan (1911)](https://en.wikipedia.org/wiki/Ronald_Reagan) | 97.0
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Richard_Nixon_presidential_portrait.jpg" width="165" /> | [Richard Nixon (1913)](https://en.wikipedia.org/wiki/Richard_Nixon) | 93.4

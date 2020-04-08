@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/silent-middle.html" class="previous" style="float: left !important">&laquo; Middle Silent (1934-1939)</a><a href="/mike-gen/generations/boomer-first.html" class="next" style="float: right !important">First Boomers (1946-1951) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/silent-middle.html" class="previous" style="float: left !important">&laquo; Middle Silent (1934-1939)</a><a href="/WhatsMyGen/generations/boomer-first.html" class="next" style="float: right !important">First Boomers (1946-1951) &raquo;</a></div>
 <br>
 ### Silent Generation: Young tier
 #### 1940 to 1945
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 74 and 79 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg" width="165" /> | [Bob Dylan (1941)](https://en.wikipedia.org/wiki/Bob_Dylan) | 92.0
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/John_Kerry_official_Secretary_of_State_portrait.jpg" width="165" /> | [John Kerry (1943)](https://en.wikipedia.org/wiki/John_Kerry) | 91.5

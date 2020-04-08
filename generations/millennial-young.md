@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/millennial-middle.html" class="previous" style="float: left !important">&laquo; Middle Millennials (1988-1993)</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/millennial-middle.html" class="previous" style="float: left !important">&laquo; Middle Millennials (1988-1993)</a></div>
 <br>
 ### Millennial Generation: Young tier
 #### 1994 to 1999
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 20 and 25 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Lil_Uzi_Vert_2018.png" width="165" /> | [Lil Uzi Vert (1994)](https://en.wikipedia.org/wiki/Lil_Uzi_Vert) | 81.5
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Lil_Skies_2019.png" width="165" /> | [Lil Skies (1998)](https://en.wikipedia.org/wiki/Lil_Skies) | 80.9

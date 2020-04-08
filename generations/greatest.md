@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/lost.html" class="previous" style="float: left !important">&laquo; Lost Generation (1892-1909)</a><a href="/mike-gen/generations/silent.html" class="next" style="float: right !important">Silent Generation (1928-1945) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/lost.html" class="previous" style="float: left !important">&laquo; Lost Generation (1892-1909)</a><a href="/WhatsMyGen/generations/silent.html" class="next" style="float: right !important">Silent Generation (1928-1945) &raquo;</a></div>
 <br>
 ### Greatest Generation
 #### 1910 to 1927
@@ -13,6 +13,6 @@ title: WhatsMyGen
 <br>  
 The men and women who fought in WWII have sometimes been called the "World War II Generation" or the "G.I. Generation", but the term "Greatest Generation" seems to have become preferred, after Tom Brokaw's book. For this site, the **Greatest Generation** are those Americans born between 1910 and 1927, and so would have entered adulthood during the Great Depression, or during WWII. 
 
-- [First Greatest](/mike-gen/generations/greatest-first.html) (1910-1915)
-- [Middle Greatest](/mike-gen/generations/greatest-middle.html) (1916-1921)
-- [Young Greatest](/mike-gen/generations/greatest-young.html) (1922-1927)
+- [First Greatest](/WhatsMyGen/generations/greatest-first.html) (1910-1915)
+- [Middle Greatest](/WhatsMyGen/generations/greatest-middle.html) (1916-1921)
+- [Young Greatest](/WhatsMyGen/generations/greatest-young.html) (1922-1927)

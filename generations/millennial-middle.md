@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/millennial-first.html" class="previous" style="float: left !important">&laquo; First Millennials (1982-1987)</a><a href="/mike-gen/generations/millennial-young.html" class="next" style="float: right !important">Young Millennials (1994-1999) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/millennial-first.html" class="previous" style="float: left !important">&laquo; First Millennials (1982-1987)</a><a href="/WhatsMyGen/generations/millennial-young.html" class="next" style="float: right !important">Young Millennials (1994-1999) &raquo;</a></div>
 <br>
 ### Millennial Generation: Middle tier
 #### 1988 to 1993
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 26 and 31 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Taylor_Swift_2_-_2019_by_Glenn_Francis_%28cropped%29_2.jpg" width="165" /> | [Taylor Swift (1989)](https://en.wikipedia.org/wiki/Taylor_Swift) | 87.5
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Chance_the_Rapper_2018_February.png" width="165" /> | [Chance the Rapper (1993)](https://en.wikipedia.org/wiki/Chance_the_Rapper) | 82.1

@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/lost-first.html" class="previous" style="float: left !important">&laquo; First Lost (1892-1897)</a><a href="/mike-gen/generations/lost-young.html" class="next" style="float: right !important">Young Lost (1904-1909) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/lost-first.html" class="previous" style="float: left !important">&laquo; First Lost (1892-1897)</a><a href="/WhatsMyGen/generations/lost-young.html" class="next" style="float: right !important">Young Lost (1904-1909) &raquo;</a></div>
 <br>
 ### Lost Generation: Middle tier
 #### 1898 to 1903
@@ -10,7 +10,7 @@ This tier would be considered fully ancestral, as there are no living Americans 
 
 ### People
 
-Rank |     | Name                                  | <a href="/mike-gen/FAQ.html#Significance">Significance</a>
+Rank |     | Name                                  | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a>
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg" width="165" />| [Ernest Hemingway (1899)](https://en.wikipedia.org/wiki/Ernest_Hemingway) |  89.3  
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG" width="165" />| [Walt Disney (1901)](https://en.wikipedia.org/wiki/Walt_Disney) |    88.6

@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="text-align: right"> <a href="/mike-gen/generations/greatest.html" class="next">Greatest Generation (1910-1927) &raquo;</a></div>
+<div style="text-align: right"> <a href="/WhatsMyGen/generations/greatest.html" class="next">Greatest Generation (1910-1927) &raquo;</a></div>
 <br>
 ### Lost Generation 
 #### 1892 - 1909
@@ -15,6 +15,6 @@ title: WhatsMyGen
 <br>  
 The term "Lost Generation" has been applied to either a group of expatriate writers living in Paris in the 1920s, or more broadly to the generation that experienced the horrors of World War I firsthand, as in the quote above. For this site, the **Lost Generation** is the group of people who were born between 1892 and 1909. This would be those who came of age leading up to or during WWI, or in the "Roaring Twenties" that followed. 
 
-- [First Lost](/mike-gen/generations/lost-first.html) (1892-1897)
-- [Middle Lost](/mike-gen/generations/lost-middle.html) (1898-1903)
-- [Young Lost](/mike-gen/generations/lost-young.html) (1904-1909)
+- [First Lost](/WhatsMyGen/generations/lost-first.html) (1892-1897)
+- [Middle Lost](/WhatsMyGen/generations/lost-middle.html) (1898-1903)
+- [Young Lost](/WhatsMyGen/generations/lost-young.html) (1904-1909)

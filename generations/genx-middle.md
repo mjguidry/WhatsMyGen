@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/genx-first.html" class="previous" style="float: left !important">&laquo; First Gen X (1964-1969)</a><a href="/mike-gen/generations/genx-young.html" class="next" style="float: right !important">Young Gen X (1976-1981) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/genx-first.html" class="previous" style="float: left !important">&laquo; First Gen X (1964-1969)</a><a href="/WhatsMyGen/generations/genx-young.html" class="next" style="float: right !important">Young Gen X (1976-1981) &raquo;</a></div>
 <br>
 ### Generation X: Middle tier
 #### 1970 to 1975
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 44 and 49 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Eminem_live_at_D.C._2014_%28cropped%29.jpg" width="165" /> | [Eminem (1972)](https://en.wikipedia.org/wiki/Enimem) | 88.0
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Christopher_Nolan_Cannes_2018.jpg" width="165" /> | [Christopher Nolan (1970)](https://en.wikipedia.org/wiki/Christopher_Nolan) | 86.2

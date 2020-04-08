@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/mike-gen/generations/silent-young.html" class="previous" style="float: left !important">&laquo; Young Silent (1940-1945)</a><a href="/mike-gen/generations/boomer-middle.html" class="next" style="float: right !important">Middle Boomers (1952-1957) &raquo;</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/silent-young.html" class="previous" style="float: left !important">&laquo; Young Silent (1940-1945)</a><a href="/WhatsMyGen/generations/boomer-middle.html" class="next" style="float: right !important">Middle Boomers (1952-1957) &raquo;</a></div>
 <br>
 ### Boomer Generation: First tier
 #### 1946 to 1951
@@ -10,7 +10,7 @@ In 2019, this tier would be those Americans between 68 and 73 years old. The U.S
 
 ### People
 
-Rank |     | Name                               | <a href="/mike-gen/FAQ.html#Significance">Significance</a> 
+Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#Significance">Significance</a> 
 ---- | --- | ---------------------------------- | -------- 
 1    | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg" width="165" /> | [George W. Bush (1946)](https://en.wikipedia.org/wiki/George_W._Bush) | 97.6
 2    | <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg" width="165" /> | [Donald Trump (1946)](https://en.wikipedia.org/wiki/Donald_Trump) | 96.3
