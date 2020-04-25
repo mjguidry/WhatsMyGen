@@ -1,73 +1,37 @@
+<script type="text/javascript" src="vars.js"></script>
 <script type="text/javascript">
   document.body.onload = addElement;
-  var gens =
-    ["First Lost",
-      "Middle Lost",
-      "Young Lost",
-      "First Greatest",
-      "Middle Greatest",
-      "Young Greatest",
-      "First Silent",
-      "Middle Silent",
-      "Young Silent",
-      "First Boomer",
-      "Middle Boomer",
-      "Young Boomer",
-      "First GenX",
-      "Middle GenX",
-      "Young GenX",
-      "First Millennial",
-      "Middle Millennial",
-      "Young Millennial"];
-  var gen_img =
-    ["https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/9/90/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_%28cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg",
-      "https://upload.wikimedia.org/wikipedia/commons/0/01/Bill_Gates_July_2014.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eminem_live_at_D.C._2014_%28cropped%29.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/f/f2/Beyonce_-_The_Formation_World_Tour%2C_at_Wembley_Stadium_in_London%2C_England.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Katy_Perry_2019_by_Glenn_Francis.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/6/63/Taylor_Swift_2_-_2019_by_Glenn_Francis_%28cropped%29_2.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lil_Uzi_Vert_2018.png"];
-  var gen_links = [
-    "/WhatsMyGen/generations/lost-first.html",
-    "/WhatsMyGen/generations/lost-middle.html",
-    "/WhatsMyGen/generations/lost-young.html",
-    "/WhatsMyGen/generations/greatest-first.html",
-    "/WhatsMyGen/generations/greatest-middle.html",
-    "/WhatsMyGen/generations/greatest-young.html",
-    "/WhatsMyGen/generations/silent-first.html",
-    "/WhatsMyGen/generations/silent-middle.html",
-    "/WhatsMyGen/generations/silent-young.html",
-    "/WhatsMyGen/generations/boomer-first.html",
-    "/WhatsMyGen/generations/boomer-middle.html",
-    "/WhatsMyGen/generations/boomer-young.html",
-    "/WhatsMyGen/generations/genx-first.html",
-    "/WhatsMyGen/generations/genx-middle.html",
-    "/WhatsMyGen/generations/genx-young.html",
-    "/WhatsMyGen/generations/millennial-first.html",
-    "/WhatsMyGen/generations/millennial-middle.html",
-    "/WhatsMyGen/generations/millennial-young.html",
-  ];
+  var gen_names =
+    [
+      "Lost",
+      "Greatest",
+      "Silent",
+      "Boomer",
+      "GenX",
+      "Millennial"
+    ];
+  var tier_names =
+    [
+      "First",
+      "Middle",
+      "Young"
+    ];
+
   function myFunction(val) {
     if (val >= 1892 && val <= 1999) {
-      idx = Math.floor((val - 1892) / 6);
-      document.getElementById("myImage").src = gen_img[idx];
-      document.getElementById("myGen").innerHTML = "Your Generational Tier is: " + gens[idx];
-      document.getElementById("gen_link").href = gen_links[idx];
+      tier = Math.floor((val - 1892) / 6) % 3;
+      tier_name = tier_names[tier]
+      gen = Math.floor((val - 1892) / 18);
+      gen_name = gen_names[gen]
+      display_name = tier_name + " " + gen_name;
+      link_name = gen_name.toLowerCase() + "-" + tier_name.toLowerCase();
+      document.getElementById("myImage").src = BOG[link_name][0]['img'];
+      document.getElementById("myGen").innerHTML = "Your Generational Tier is: " + display_name;
+      document.getElementById("gen_link").href = "/WhatsMyGen/generations/" + link_name + ".html";
     }
     else {
       document.getElementById("myGen").innerHTML = "Your Generational Tier is: ";
-      document.getElementById("myImage").src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png";
+      document.getElementById("myImage").src = "WhatsMyGen/images/question_mark.jpg";
       document.getElementById("gen_link").href = "";
     }
   }
@@ -93,7 +57,7 @@
 
     var img = document.createElement("img");
     img.id = "myImage";
-    img.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/240px-Icon-round-Question_mark.svg.png";
+    img.src = "WhatsMyGen/images/question_mark.jpg";
     img.width = "165";
     document.getElementById("main_content").appendChild(img);
 
