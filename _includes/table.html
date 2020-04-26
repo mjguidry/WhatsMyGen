@@ -1,0 +1,45 @@
+<script type="text/javascript" src="assets/js/vars.js"></script>
+<script type="text/javascript">
+  document.body.onload = addTable;
+  function addTable() {
+      var href = window.location.href;
+      var gen_name = href.split('/').pop();
+      gen_name = gen_name.split('.').shift();
+
+      var tbl = document.createElement("TABLE");
+
+      var header = tbl.createTHead();
+      var hrow = header.insertRow(0);
+      var cell0 = hrow.insertCell(0);
+      cell0.innerHTML = "Rank";
+      var cell1 = hrow.insertCell(1);
+      cell1.innerHTML = "";
+      var cell2 = hrow.insertCell(2);
+      cell2.innerHTML = "Name";
+      var cell3 = hrow.insertCell(3);
+      cell3.innerHTML = "<a href=\"/WhatsMyGen/FAQ.html#Significance\">Significance</a>";
+
+      var tbody = tbl.createTBody();
+      var i;
+      for (i = 0; i < BOG[gen_name].length; i++) {
+          var row = tbody.insertRow(i);
+          var rank = i + 1;
+          var cell0 = row.insertCell(0);
+          cell0.innerHTML = rank.toString();
+          var cell1 = row.insertCell(1);
+          var img = document.createElement("img");
+          img.src = BOG[gen_name][i]["img"];
+          img.width = "165";
+          cell1.appendChild(img);
+          var cell2 = row.insertCell(2);
+          var a = document.createElement("a");
+          a.href = BOG[gen_name][i]["link"];
+          a.innerHTML = BOG[gen_name][i]["name"];
+          cell2.appendChild(a);
+          var cell3 = row.insertCell(3);
+          cell3.innerHTML = BOG[gen_name][i]["sig"].toFixed(1).toString();
+      }
+
+      document.getElementById("main_content").appendChild(tbl);
+
+  }
