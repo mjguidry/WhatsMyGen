@@ -8,6 +8,7 @@
       console.log("Gen name is "+gen_name);
       gen_name = gen_name.split('.').shift();
       console.log("Gen name is "+gen_name);
+      console.log(BOG[gen_name].length);
 
       var tbl = document.createElement("TABLE");
 
@@ -24,7 +25,7 @@
 
       var tbody = tbl.createTBody();
       var i;
-      for (i = 0; i < BOG[gen_name].length; i++) {
+      for (i = 0; i < 10; i++) {
           var row = tbody.insertRow(i);
           var rank = i + 1;
           var cell0 = row.insertCell(0);
