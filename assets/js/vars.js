@@ -1,18 +1,18 @@
 var gen_names =
-[
-  "Lost",
-  "Greatest",
-  "Silent",
-  "Boomer",
-  "GenX",
-  "Millennial"
-];
+    [
+        "Lost",
+        "Greatest",
+        "Silent",
+        "Boomer",
+        "GenX",
+        "Millennial"
+    ];
 var tier_names =
-[
-  "First",
-  "Middle",
-  "Young"
-];
+    [
+        "First",
+        "Middle",
+        "Young"
+    ];
 
 var BOG = {
     "lost-first": {
