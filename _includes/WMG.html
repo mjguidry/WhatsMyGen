@@ -1,21 +1,6 @@
 <script type="text/javascript" src="assets/js/vars.js"></script>
 <script type="text/javascript">
   document.body.onload = addElement;
-  var gen_names =
-    [
-      "Lost",
-      "Greatest",
-      "Silent",
-      "Boomer",
-      "GenX",
-      "Millennial"
-    ];
-  var tier_names =
-    [
-      "First",
-      "Middle",
-      "Young"
-    ];
 
   function myFunction(val) {
     if (val >= 1892 && val <= 1999) {
@@ -58,7 +43,7 @@
     var img = document.createElement("img");
     img.id = "myImage";
     img.src = "images/question_mark.jpg";
-    img.width = "165";
+    img.width = "220";
     document.getElementById("main_content").appendChild(img);
 
     var p = document.createElement("p");
