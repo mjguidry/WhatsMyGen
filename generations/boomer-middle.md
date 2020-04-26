@@ -23,4 +23,4 @@ Rank |     | Name                               | <a href="/WhatsMyGen/FAQ.html#
 9    | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Lawrence_Summers_2012.jpg" width="165" /> | [Lawrence Summers (1954)](https://en.wikipedia.org/wiki/Lawrence_Summers) | 80.5
 10   | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Steve_Jobs_Headshot_2010-CROP2.jpg" width="165" /> | [Steve Jobs (1955)](https://en.wikipedia.org/wiki/Steve_Jobs) | 80.4
 
-{% include Timeline.html %}
+{% include table.html %}
