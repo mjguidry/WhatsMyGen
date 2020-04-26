@@ -3,12 +3,8 @@
   document.body.onload = addTable;
   function addTable() {
       var href = window.location.href;
-      console.log("HREF is "+href);
       var gen_name = href.split('/').pop();
-      console.log("Gen name is "+gen_name);
       gen_name = gen_name.split('.').shift();
-      console.log("Gen name is "+gen_name);
-      console.log(BOG[gen_name].length);
 
       var tbl = document.createElement("TABLE");
 
