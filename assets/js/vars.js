@@ -310,7 +310,6 @@ var BOG = {
             "name": "John L. Hess (1917)",
             "link": "http://en.wikipedia.org/wiki/John_L._Hess",
             "sig": 83.02230252902811,
-            "img": "/WhatsMyGen/images/John_L._Hess_(1917).jpg"
         },
         8: {
             "name": "Billy Graham (1918)",
@@ -472,7 +471,6 @@ var BOG = {
             "name": "Thomas Pynchon (1937)",
             "link": "http://en.wikipedia.org/wiki/Thomas_Pynchon",
             "sig": 86.29763466683758,
-            "img": "/WhatsMyGen/images/Thomas_Pynchon_(1937).jpg"
         },
         4: {
             "name": "Robert Nozick (1938)",
