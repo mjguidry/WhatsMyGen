@@ -3,7 +3,7 @@
   document.body.onload = addElement;
 
   function myFunction(val) {
-    if (val >= 1892 && val <= 1999) {
+    if (val >= 1892 && val <= 2017) {
       tier = Math.floor((val - 1892) / 6) % 3;
       tier_name = tier_names[tier]
       gen = Math.floor((val - 1892) / 18);
@@ -24,7 +24,7 @@
   function addElement() {
     var lbl = document.createElement("LABEL");
     lbl.htmlFor = "year";
-    lbl.innerHTML = "Year of Birth (1892 to 1999):";
+    lbl.innerHTML = "Year of Birth (1892 to 2017):";
     document.getElementById("main_content").appendChild(lbl);
 
     var x = document.createElement("INPUT");
@@ -32,7 +32,7 @@
     x.setAttribute("onchange", "myFunction(this.value)");
     x.required = true;
     x.min = 1892;
-    x.max = 1999;
+    x.max = 2017;
     document.getElementById("main_content").appendChild(x);
 
     var gt = document.createElement("H3");
