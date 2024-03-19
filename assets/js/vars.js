@@ -1135,7 +1135,7 @@ var BOG = {
             "name": "Billie Eilish (2001)",
             "link": "http://en.wikipedia.org/wiki/Billie_Eilish",
             "sig": 77.184097,
-            "img": "",
+            "img": "/WhatsMyGen/images/Billie_Eilish_(2001).jpg",
         },
         1: {
             "name": "Willow Smith (2000)",
@@ -1168,27 +1168,27 @@ var BOG = {
             "img": "",
         },
         6: {
-            "name": "Margaret Carlson (2002)",
-            "link": "http://en.wikipedia.org/wiki/Margaret_Carlson",
-            "sig": 71.332310,
-            "img": "",
-        },
-        7: {
             "name": "Rachel Zegler (2001)",
             "link": "http://en.wikipedia.org/wiki/Rachel_Zegler",
             "sig": 71.248259,
             "img": "",
         },
-        8: {
+        7: {
             "name": "Lil Pump (2000)",
             "link": "http://en.wikipedia.org/wiki/Lil_Pump",
             "sig": 71.238022,
             "img": "",
         },
-        9: {
+        8: {
             "name": "Tay-K (2000)",
             "link": "http://en.wikipedia.org/wiki/Tay-K",
             "sig": 70.666379,
+            "img": "",
+        },
+        9: {
+            "name": "Paige Bueckers (2001)",
+            "link": "http://en.wikipedia.org/wiki/Paige_Bueckers",
+            "sig": 70.546881,
             "img": "",
         },
     }
