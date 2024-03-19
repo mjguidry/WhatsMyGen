@@ -1147,37 +1147,37 @@ var BOG = {
             "name": "Auliʻi Cravalho (2000)",
             "link": "http://en.wikipedia.org/wiki/Auli%CA%BBi_Cravalho",
             "sig": 71.723971,
-            "img": "",
+            "img": "/WhatsMyGen/images/Aulii_Cravalho_(2000).jpg",
         },
         3: {
             "name": "Olivia Rodrigo (2003)",
             "link": "http://en.wikipedia.org/wiki/Olivia_Rodrigo",
             "sig": 71.640507,
-            "img": "",
+            "img": "/WhatsMyGen/images/Olivia_Rodrigo_(2003).jpg",
         },
         4: {
             "name": "Jenna Ortega (2002)",
             "link": "http://en.wikipedia.org/wiki/Jenna_Ortega",
             "sig": 71.511564,
-            "img": "",
+            "img": "/WhatsMyGen/images/Jenna_Ortega_(2002).jpg",
         },
         5: {
             "name": "Chloe Kim (2000)",
             "link": "http://en.wikipedia.org/wiki/Chloe_Kim",
             "sig": 71.412517,
-            "img": "",
+            "img": "/WhatsMyGen/images/Chloe_Kim_(2000).jpg",
         },
         6: {
             "name": "Rachel Zegler (2001)",
             "link": "http://en.wikipedia.org/wiki/Rachel_Zegler",
             "sig": 71.248259,
-            "img": "",
+            "img": "/WhatsMyGen/images/Rachel_Zegler_(2001).jpg",
         },
         7: {
             "name": "Lil Pump (2000)",
             "link": "http://en.wikipedia.org/wiki/Lil_Pump",
             "sig": 71.238022,
-            "img": "",
+            "img": "/WhatsMyGen/images/Lil_Pump_(2000).jpg",
         },
         8: {
             "name": "Tay-K (2000)",
@@ -1189,7 +1189,7 @@ var BOG = {
             "name": "Paige Bueckers (2001)",
             "link": "http://en.wikipedia.org/wiki/Paige_Bueckers",
             "sig": 70.546881,
-            "img": "",
+            "img": "/WhatsMyGen/images/Paige_Bueckers_(2001).jpg",
         },
     }
 }
