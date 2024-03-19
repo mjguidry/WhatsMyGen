@@ -5,7 +5,8 @@ var gen_names =
         "Silent",
         "Boomer",
         "GenX",
-        "Millennial"
+        "Millennial",
+        "GenZ"
     ];
 var tier_names =
     [
@@ -1129,4 +1130,72 @@ var BOG = {
             "img": "/WhatsMyGen/images/Jordyn_Wieber_(1995).jpg"
         },
     },
+    "genz-first": {
+        0: {
+            "name": "Billie Eilish (2001)",
+            "link": "http://en.wikipedia.org/wiki/Billie_Eilish",
+            "sig": 77.184097,
+            "img": "",
+        },
+        1: {
+            "name": "Willow Smith (2000)",
+            "link": "http://en.wikipedia.org/wiki/Willow_Smith",
+            "sig": 72.046082,
+            "img": "",
+        },
+        2: {
+            "name": "Auliʻi Cravalho (2000)",
+            "link": "http://en.wikipedia.org/wiki/Auli%CA%BBi_Cravalho",
+            "sig": 71.723971,
+            "img": "",
+        },
+        3: {
+            "name": "Olivia Rodrigo (2003)",
+            "link": "http://en.wikipedia.org/wiki/Olivia_Rodrigo",
+            "sig": 71.640507,
+            "img": "",
+        },
+        4: {
+            "name": "Jenna Ortega (2002)",
+            "link": "http://en.wikipedia.org/wiki/Jenna_Ortega",
+            "sig": 71.511564,
+            "img": "",
+        },
+        5: {
+            "name": "Chloe Kim (2000)",
+            "link": "http://en.wikipedia.org/wiki/Chloe_Kim",
+            "sig": 71.412517,
+            "img": "",
+        },
+        6: {
+            "name": "Margaret Carlson (2002)",
+            "link": "http://en.wikipedia.org/wiki/Margaret_Carlson",
+            "sig": 71.332310,
+            "img": "",
+        },
+        7: {
+            "name": "Rachel Zegler (2001)",
+            "link": "http://en.wikipedia.org/wiki/Rachel_Zegler",
+            "sig": 71.248259,
+            "img": "",
+        },
+        8: {
+            "name": "Lil Pump (2000)",
+            "link": "http://en.wikipedia.org/wiki/Lil_Pump",
+            "sig": 71.238022,
+            "img": "",
+        },
+        9: {
+            "name": "Tay-K (2000)",
+            "link": "http://en.wikipedia.org/wiki/Tay-K",
+            "sig": 70.666379,
+            "img": "",
+        },
+        10: {
+            "name": "Paige Bueckers (2001)",
+            "link": "http://en.wikipedia.org/wiki/Paige_Bueckers",
+            "sig": 70.546881,
+            "img": "",
+        },
+    }
 }
