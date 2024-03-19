@@ -1191,11 +1191,5 @@ var BOG = {
             "sig": 70.666379,
             "img": "",
         },
-        10: {
-            "name": "Paige Bueckers (2001)",
-            "link": "http://en.wikipedia.org/wiki/Paige_Bueckers",
-            "sig": 70.546881,
-            "img": "",
-        },
     }
 }
