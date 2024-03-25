@@ -2,7 +2,7 @@
 layout: default
 title: WhatsMyGen
 ---
-<div style="overflow: hidden"><a href="/WhatsMyGen/generations/millenial.html" class="previous" style="float: left !important">&laquo; Millenial (1982-1999)</a></div>
+<div style="overflow: hidden"><a href="/WhatsMyGen/generations/millennial.html" class="previous" style="float: left !important">&laquo; Millennial (1982-1999)</a></div>
 <br>
 ### Generation Z
 #### 2000 to 2017
