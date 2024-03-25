@@ -1010,62 +1010,62 @@ var BOG = {
         0: {
             "name": "Taylor Swift (1989)",
             "link": "http://en.wikipedia.org/wiki/Taylor_Swift",
-            "sig": 87.49678667873842,
+            "sig": 83.908543,
             "img": "/WhatsMyGen/images/Taylor_Swift_(1989).jpg"
         },
         1: {
-            "name": "Chance the Rapper (1993)",
-            "link": "http://en.wikipedia.org/wiki/Chance_the_Rapper",
-            "sig": 82.09596818799517,
-            "img": "/WhatsMyGen/images/Chance_the_Rapper_(1993).jpg"
-        },
-        2: {
-            "name": "ASAP Rocky (1988)",
-            "link": "http://en.wikipedia.org/wiki/ASAP_Rocky",
-            "sig": 81.63404541395721,
-            "img": "/WhatsMyGen/images/ASAP_Rocky_(1988).jpg"
-        },
-        3: {
-            "name": "SZA (1990)",
-            "link": "http://en.wikipedia.org/wiki/SZA_(singer)",
-            "sig": 81.56161545055473,
-            "img": "/WhatsMyGen/images/SZA_(1990).jpg"
-        },
-        4: {
             "name": "Ariana Grande (1993)",
             "link": "http://en.wikipedia.org/wiki/Ariana_Grande",
-            "sig": 79.93163442672207,
+            "sig": 81.274757,
             "img": "/WhatsMyGen/images/Ariana_Grande_(1993).jpg"
+        },
+        2: {
+            "name": "Miley Cyrus (1992)",
+            "link": "http://en.wikipedia.org/wiki/Miley_Cyrus",
+            "sig": 79.582588,
+            "img": "/WhatsMyGen/images/Miley_Cyrus_(1992).jpg"
+        },
+        3: {
+            "name": "Selena Gomez (1992)",
+            "link": "http://en.wikipedia.org/wiki/Selena_Gomez",
+            "sig": 79.490464,
+            "img": "/WhatsMyGen/images/Selena_Gomez_(1992).jpg"
+        },
+        4: {
+            "name": "Stephen Curry (1988)",
+            "link": "http://en.wikipedia.org/wiki/Stephen_Curry",
+            "sig": 77.943861,
+            "img": "/WhatsMyGen/images/Stephen_Curry_(1988).jpg"
         },
         5: {
             "name": "Demi Lovato (1992)",
             "link": "http://en.wikipedia.org/wiki/Demi_Lovato",
-            "sig": 79.8494062166475,
+            "sig": 77.767760,
             "img": "/WhatsMyGen/images/Demi_Lovato_(1992).jpg"
         },
         6: {
-            "name": "Selena Gomez (1992)",
-            "link": "http://en.wikipedia.org/wiki/Selena_Gomez",
-            "sig": 78.348873868779,
-            "img": "/WhatsMyGen/images/Selena_Gomez_(1992).jpg"
+            "name": "Cardi B (1992)",
+            "link": "http://en.wikipedia.org/wiki/Cardi_B",
+            "sig": 77.455525,
+            "img": "/WhatsMyGen/images/Cardi_B_(1992).jpg"
         },
         7: {
-            "name": "Kevin Durant (1988)",
-            "link": "http://en.wikipedia.org/wiki/Kevin_Durant",
-            "sig": 78.19169117257353,
-            "img": "/WhatsMyGen/images/Kevin_Durant_(1988).jpg"
+            "name": "Travis Scott (1991)",
+            "link": "http://en.wikipedia.org/wiki/Travis_Scott",
+            "sig": 76.919615,
+            "img": "/WhatsMyGen/images/Travis_Scott_(1991).jpg"
         },
         8: {
-            "name": "Miley Cyrus (1992)",
-            "link": "http://en.wikipedia.org/wiki/Miley_Cyrus",
-            "sig": 77.71757311295941,
-            "img": "/WhatsMyGen/images/Miley_Cyrus_(1992).jpg"
+            "name": "Alexandria Ocasio-Cortez (1989)",
+            "link": "http://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+            "sig": 76.382795,
+            "img": "/WhatsMyGen/images/Alexandria_Ocasio-Cortez_(1989).jpg"
         },
         9: {
-            "name": "Emma Stone (1988)",
-            "link": "http://en.wikipedia.org/wiki/Emma_Stone",
-            "sig": 76.85951036161369,
-            "img": "/WhatsMyGen/images/Emma_Stone_(1988).jpg"
+            "name": "Big Sean (1988)",
+            "link": "http://en.wikipedia.org/wiki/Big_Sean",
+            "sig": 76.214209,
+            "img": "/WhatsMyGen/images/Big_Sean_(1988).jpg"
         },
     },
     "millennial-young": {
