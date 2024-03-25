@@ -11,10 +11,3 @@ title: WhatsMyGen
 ### People
 
 {% include table.html %}
-
-{%
-<script type="text/javascript">
-let textNode = document.createTextNode("Last Updated: 2024-03-24");
-document.getElementById("main_content").appendChild(textNode);
-</script>
-%}
