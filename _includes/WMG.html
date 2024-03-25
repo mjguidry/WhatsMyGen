@@ -3,7 +3,7 @@
   document.body.onload = addElement;
 
   function myFunction(val) {
-    if (val >= 1892 && val <= 2017) {
+    if (val >= 1892 && val <= 2005) {
       tier = Math.floor((val - 1892) / 6) % 3;
       tier_name = tier_names[tier]
       gen = Math.floor((val - 1892) / 18);
@@ -24,7 +24,7 @@
   function addElement() {
     var lbl = document.createElement("LABEL");
     lbl.htmlFor = "year";
-    lbl.innerHTML = "Year of Birth (1892 to 2017):";
+    lbl.innerHTML = "Year of Birth (1892 to 2005):";
     document.getElementById("main_content").appendChild(lbl);
 
     var x = document.createElement("INPUT");
