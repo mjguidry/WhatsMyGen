@@ -1070,64 +1070,64 @@ var BOG = {
     },
     "millennial-young": {
         0: {
-            "name": "Lil Uzi Vert (1994)",
-            "link": "http://en.wikipedia.org/wiki/Lil_Uzi_Vert",
-            "sig": 81.52216120777787,
-            "img": "/WhatsMyGen/images/Lil_Uzi_Vert_(1994).jpg"
-        },
-        1: {
-            "name": "Lil Skies (1998)",
-            "link": "http://en.wikipedia.org/wiki/Lil_Skies",
-            "sig": 80.93884038986886,
-            "img": "/WhatsMyGen/images/Lil_Skies_(1998).jpg"
-        },
-        2: {
-            "name": "Post Malone (1995)",
-            "link": "http://en.wikipedia.org/wiki/Post_Malone",
-            "sig": 74.11611334199229,
-            "img": "/WhatsMyGen/images/Post_Malone_(1995).jpg"
-        },
-        3: {
             "name": "Camila Cabello (1997)",
             "link": "http://en.wikipedia.org/wiki/Camila_Cabello",
-            "sig": 73.61068857083447,
+            "sig": 76.556774,
             "img": "/WhatsMyGen/images/Camila_Cabello_(1997).jpg"
         },
-        4: {
+        1: {
+            "name": "Post Malone (1995)",
+            "link": "http://en.wikipedia.org/wiki/Post_Malone",
+            "sig": 76.208464,
+            "img": "/WhatsMyGen/images/Post_Malone_(1995).jpg"
+        },
+        2: {
+            "name": "Megan Thee Stallion (1995)",
+            "link": "http://en.wikipedia.org/wiki/Megan_Thee_Stallion",
+            "sig": 76.008076,
+            "img": "/WhatsMyGen/images/Megan_Thee_Stallion_(1995).jpg"
+        },
+        3: {
             "name": "Halsey (1994)",
             "link": "http://en.wikipedia.org/wiki/Halsey_(singer)",
-            "sig": 72.85792145582091,
+            "sig": 75.978577,
             "img": "/WhatsMyGen/images/Halsey_(1994).jpg"
         },
+        4: {
+            "name": "Lil Uzi Vert (1995)",
+            "link": "http://en.wikipedia.org/wiki/Lil_Uzi_Vert",
+            "sig": 75.758179,
+            "img": "/WhatsMyGen/images/Lil_Uzi_Vert_(1995).jpg"
+        },
         5: {
-            "name": "Chief Keef (1995)",
-            "link": "http://en.wikipedia.org/wiki/Chief_Keef",
-            "sig": 72.707039204586,
-            "img": "/WhatsMyGen/images/Chief_Keef_(1995).jpg"
+            "name": "Lil Nas X (1999)",
+            "link": "http://en.wikipedia.org/wiki/Lil_Nas_X",
+            "sig": 75.631711,
+            "img": "/WhatsMyGen/images/Lil_Nas_X_(1999).jpg"
         },
         6: {
-            "name": "Becky G (1997)",
-            "link": "http://en.wikipedia.org/wiki/Becky_G",
-            "sig": 72.7063403302573,
-            "img": "/WhatsMyGen/images/Becky_G_(1997).jpg"
+            "name": "Lil Baby (1994)",
+            "link": "http://en.wikipedia.org/wiki/Lil_Baby",
+            "sig": 75.236214,
+            "img": "/WhatsMyGen/images/Lil_Baby_(1994).jpg"
         },
         7: {
-            "name": "Dakota Fanning (1994)",
-            "link": "http://en.wikipedia.org/wiki/Dakota_Fanning",
-            "sig": 72.33347015263237,
-            "img": "/WhatsMyGen/images/Dakota_Fanning_(1994).jpg"
+            "name": "Becky G (1997)",
+            "link": "http://en.wikipedia.org/wiki/Becky_G",
+            "sig": 74.885485,
+            "img": "/WhatsMyGen/images/Becky_G_(1997).jpg"
         },
         8: {
-            "name": "Zendaya (1996)",
-            "link": "http://en.wikipedia.org/wiki/Zendaya",
-            "sig": 71.9219397906703,
-            "img": "/WhatsMyGen/images/Zendaya_(1996).jpg"
+            "name": "Playboi Carti (1995)",
+            "link": "http://en.wikipedia.org/wiki/Playboi_Carti",
+            "sig": 74.660041,
+            "img": "/WhatsMyGen/images/Playboi_Carti_(1995).jpg"
         },
         9: {
-            "name": "Jordyn Wieber (1995)",
-            "link": "http://en.wikipedia.org/wiki/Jordyn_Wieber",
-            "sig": 71.89959725001498,
-            "img": "/WhatsMyGen/images/Jordyn_Wieber_(1995).jpg"
+            "name": "Simone Biles (1997)",
+            "link": "http://en.wikipedia.org/wiki/Simone_Biles",
+            "sig": 74.445011,
+            "img": "/WhatsMyGen/images/Simone_Biles_(1997).jpg"
         },
     },
     "genz-first": {
