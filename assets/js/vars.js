@@ -1141,7 +1141,7 @@ var BOG = {
             "name": "Willow Smith (2000)",
             "link": "http://en.wikipedia.org/wiki/Willow_Smith",
             "sig": 72.046082,
-            "img": "",
+            "img": "/WhatsMyGen/images/Willow_Smith_(2000).jpg",
         },
         2: {
             "name": "Auliʻi Cravalho (2000)",
