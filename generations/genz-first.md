@@ -12,4 +12,9 @@ title: WhatsMyGen
 
 {% include table.html %}
 
-Last updated : 2024-03-24
+{%
+<script type="text/javascript">
+let textNode = document.createTextNode("Last Updated: 2024-03-24");
+document.getElementById("main_content").appendChild(textNode);
+</script>
+%}
