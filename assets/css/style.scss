@@ -18,8 +18,10 @@
 
 .third-level-menu > li
 {
+    font: 14px Helvetica, Arial, serif;
     height: 30px;
-    padding: 0;
+    padding: 0 10px 0 10px;
+    text-decoration: none;
     background: #999999;
     list-style: none;
 }
