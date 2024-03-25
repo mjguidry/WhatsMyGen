@@ -1094,10 +1094,10 @@ var BOG = {
             "img": "/WhatsMyGen/images/Halsey_(1994).jpg"
         },
         4: {
-            "name": "Lil Uzi Vert (1995)",
+            "name": "Lil Uzi Vert (1994)",
             "link": "http://en.wikipedia.org/wiki/Lil_Uzi_Vert",
             "sig": 75.758179,
-            "img": "/WhatsMyGen/images/Lil_Uzi_Vert_(1995).jpg"
+            "img": "/WhatsMyGen/images/Lil_Uzi_Vert_(1994).jpg"
         },
         5: {
             "name": "Lil Nas X (1999)",
