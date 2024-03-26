@@ -946,64 +946,64 @@ var BOG = {
     },
     "millennial-first": {
         0: {
-            "name": "Katy Perry (1984)",
-            "link": "http://en.wikipedia.org/wiki/Katy_Perry",
-            "sig": 87.49216867724378,
-            "img": "/WhatsMyGen/images/Katy_Perry_(1984).jpg"
-        },
-        1: {
             "name": "Lady Gaga (1986)",
             "link": "http://en.wikipedia.org/wiki/Lady_Gaga",
-            "sig": 85.2191100790981,
+            "sig": 85.347417,
             "img": "/WhatsMyGen/images/Lady_Gaga_(1986).jpg"
         },
+        1: {
+            "name": "Katy Perry (1984)",
+            "link": "http://en.wikipedia.org/wiki/Katy_Perry",
+            "sig": 82.693005,
+            "img": "/WhatsMyGen/images/Katy_Perry_(1984).jpg"
+        },
         2: {
-            "name": "Janelle Monáe (1985)",
-            "link": "http://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e",
-            "sig": 82.72527922430471,
-            "img": "/WhatsMyGen/images/Janelle_Monáe_(1985).jpg"
-        },
-        3: {
-            "name": "Michael Phelps (1985)",
-            "link": "http://en.wikipedia.org/wiki/Michael_Phelps",
-            "sig": 82.42920976155878,
-            "img": "/WhatsMyGen/images/Michael_Phelps_(1985).jpg"
-        },
-        4: {
             "name": "Edward Snowden (1983)",
             "link": "http://en.wikipedia.org/wiki/Edward_Snowden",
-            "sig": 81.5016291660992,
+            "sig": 82.210681,
             "img": "/WhatsMyGen/images/Edward_Snowden_(1983).jpg"
         },
-        5: {
+        3: {
             "name": "LeBron James (1984)",
             "link": "http://en.wikipedia.org/wiki/LeBron_James",
-            "sig": 80.5320146383673,
+            "sig": 81.356505,
             "img": "/WhatsMyGen/images/LeBron_James_(1984).jpg"
         },
-        6: {
+        4: {
+            "name": "Michael Phelps (1985)",
+            "link": "http://en.wikipedia.org/wiki/Michael_Phelps",
+            "sig": 81.265283,
+            "img": "/WhatsMyGen/images/Michael_Phelps_(1985).jpg"
+        },
+        5: {
             "name": "Scarlett Johansson (1984)",
             "link": "http://en.wikipedia.org/wiki/Scarlett_Johansson",
-            "sig": 79.88674782950072,
+            "sig": 80.807151,
             "img": "/WhatsMyGen/images/Scarlett_Johansson_(1984).jpg"
         },
-        7: {
-            "name": "Kelly Clarkson (1982)",
-            "link": "http://en.wikipedia.org/wiki/Kelly_Clarkson",
-            "sig": 79.75415493365287,
-            "img": "/WhatsMyGen/images/Kelly_Clarkson_(1982).jpg"
-        },
-        8: {
-            "name": "Nicki Minaj (1982)",
-            "link": "http://en.wikipedia.org/wiki/Nicki_Minaj",
-            "sig": 79.18476215231411,
-            "img": "/WhatsMyGen/images/Nicki_Minaj_(1982).jpg"
-        },
-        9: {
+        6: {
             "name": "Mark Zuckerberg (1984)",
             "link": "http://en.wikipedia.org/wiki/Mark_Zuckerberg",
-            "sig": 78.18596240394544,
+            "sig": 80.733221,
             "img": "/WhatsMyGen/images/Mark_Zuckerberg_(1984).jpg"
+        },
+        7: {
+            "name": "Nicki Minaj (1982)",
+            "link": "http://en.wikipedia.org/wiki/Nicki_Minaj",
+            "sig": 80.345504,
+            "img": "/WhatsMyGen/images/Nicki_Minaj_(1982).jpg"
+        },
+        8: {
+            "name": "Kendrick Lamar (1987)",
+            "link": "http://en.wikipedia.org/wiki/Kendrick_Lamar",
+            "sig": 79.582506,
+            "img": "/WhatsMyGen/images/Kendrick_Lamar_(1987).jpg"
+        },
+	9: {
+            "name": "Bruno Mars (1985)",
+            "link": "http://en.wikipedia.org/wiki/Bruno_Mars",
+            "sig": 78.727236,
+            "img": "/WhatsMyGen/images/Bruno_Mars_(1985).jpg"
         },
     },
     "millennial-middle": {
