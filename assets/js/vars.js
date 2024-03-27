@@ -886,63 +886,64 @@ var BOG = {
         0: {
             "name": "Beyoncé (1981)",
             "link": "http://en.wikipedia.org/wiki/Beyonc%C3%A9",
-            "sig": 90.31030380350047,
+            "sig": 85.587642,
             "img": "/WhatsMyGen/images/Beyoncé_(1981).jpg"
         },
         1: {
-            "name": "Britney Spears (1981)",
-            "link": "http://en.wikipedia.org/wiki/Britney_Spears",
-            "sig": 88.18262049838252,
-            "img": "/WhatsMyGen/images/Britney_Spears_(1981).jpg"
-        },
-        2: {
             "name": "Kanye West (1977)",
             "link": "http://en.wikipedia.org/wiki/Kanye_West",
-            "sig": 87.99340420416385,
+            "sig": 84.102596,
             "img": "/WhatsMyGen/images/Kanye_West_(1977).jpg"
         },
-        3: {
-            "name": "Pink (1979)",
-            "link": "http://en.wikipedia.org/wiki/Pink_(singer)",
-            "sig": 82.62077278716336,
-            "img": "/WhatsMyGen/images/Pink_(1979).jpg"
+        2: {
+            "name": "Britney Spears (1981)",
+            "link": "http://en.wikipedia.org/wiki/Britney_Spears",
+            "sig": 83.554630,
+            "img": "/WhatsMyGen/images/Britney_Spears_(1981).jpg"
         },
-        4: {
+        3: {
             "name": "Justin Timberlake (1981)",
             "link": "http://en.wikipedia.org/wiki/Justin_Timberlake",
-            "sig": 81.27692406205334,
+            "sig": 82.055337,
             "img": "/WhatsMyGen/images/Justin_Timberlake_(1981).jpg"
         },
-        5: {
-            "name": "Christina Aguilera (1980)",
-            "link": "http://en.wikipedia.org/wiki/Christina_Aguilera",
-            "sig": 80.56359289617369,
-            "img": "/WhatsMyGen/images/Christina_Aguilera_(1980).jpg"
+        4: {
+            "name": "Pink (1979)",
+            "link": "http://en.wikipedia.org/wiki/Pink_(singer)",
+            "sig": 81.137626,
+            "img": "/WhatsMyGen/images/Pink_(1979).jpg"
         },
-        6: {
+        5: {
             "name": "Serena Williams (1981)",
             "link": "http://en.wikipedia.org/wiki/Serena_Williams",
-            "sig": 80.15406082886679,
+            "sig": 80.936891,
             "img": "/WhatsMyGen/images/Serena_Williams_(1981).jpg"
+        },
+        6: {
+            "name": "Christina Aguilera (1980)",
+            "link": "http://en.wikipedia.org/wiki/Christina_Aguilera",
+            "sig": 80.583319,
+            "img": "/WhatsMyGen/images/Christina_Aguilera_(1980).jpg"
         },
         7: {
             "name": "Kobe Bryant (1978)",
             "link": "http://en.wikipedia.org/wiki/Kobe_Bryant",
-            "sig": 79.85325359843246,
+            "sig": 80.270282,
             "img": "/WhatsMyGen/images/Kobe_Bryant_(1978).jpg"
         },
         8: {
-            "name": "Usher (1978)",
-            "link": "http://en.wikipedia.org/wiki/Usher_(musician)",
-            "sig": 79.56007224456876,
-            "img": "/WhatsMyGen/images/Usher_(1978).jpg"
+            "name": "Ron DeSantis (1978)",
+            "link": "http://en.wikipedia.org/wiki/Ron_DeSantis",
+            "sig": 79.575263,
+            "img": "/WhatsMyGen/images/Ron_DeSantis_(1978).jpg"
         },
         9: {
-            "name": "Alicia Keys (1981)",
-            "link": "http://en.wikipedia.org/wiki/Alicia_Keys",
-            "sig": 78.16702533926232,
-            "img": "/WhatsMyGen/images/Alicia_Keys_(1981).jpg"
+            "name": "John Legend (1978)",
+            "link": "http://en.wikipedia.org/wiki/John_Legend",
+            "sig": 79.551399,
+            "img": "/WhatsMyGen/images/John_Legend_(1978).jpg"
         },
+
     },
     "millennial-first": {
         0: {

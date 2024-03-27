@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Generation X: Young tier
 #### 1976 to 1981
-In 2020, this tier would be those Americans between 39 and 44 years old. The U.S. Census Bureau estimates that there were 24,927,312 people in this tier in 2019. 
+In 2024, this tier would be those Americans between 43 and 48 years old. The U.S. Census Bureau estimates that there were 25,183,095 people in this tier in 2022. 
 
 ### People
 
