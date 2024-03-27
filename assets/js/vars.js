@@ -760,64 +760,64 @@ var BOG = {
     },
     "genx-first": {
         0: {
-            "name": "Jay-Z (1969)",
-            "link": "http://en.wikipedia.org/wiki/Jay-Z",
-            "sig": 87.61337863959817,
-            "img": "/WhatsMyGen/images/Jay-Z_(1969).jpg"
+            "name": "Mariah Carey (1969)",
+            "link": "http://en.wikipedia.org/wiki/Mariah_Carey",
+            "sig": 86.517262,
+            "img": "/WhatsMyGen/images/Mariah_Carey_(1969).jpg"
         },
         1: {
             "name": "Michelle Obama (1964)",
             "link": "http://en.wikipedia.org/wiki/Michelle_Obama",
-            "sig": 84.49015871467446,
+            "sig": 85.533519,
             "img": "/WhatsMyGen/images/Michelle_Obama_(1964).jpg"
         },
         2: {
-            "name": "Kevin McCarthy (1965)",
-            "link": "http://en.wikipedia.org/wiki/Kevin_McCarthy_(California_politician)",
-            "sig": 84.36746410885866,
-            "img": "/WhatsMyGen/images/Kevin_McCarthy_(1965).jpg"
+            "name": "Kamala Harris (1964)",
+            "link": "http://en.wikipedia.org/wiki/Kamala_Harris",
+            "sig": 83.454638,
+            "img": "/WhatsMyGen/images/Kamala_Harris_(1964).jpg"
         },
         3: {
-            "name": "Jennifer Lopez (1969)",
-            "link": "http://en.wikipedia.org/wiki/Jennifer_Lopez",
-            "sig": 82.45683830751493,
-            "img": "/WhatsMyGen/images/Jennifer_Lopez_(1969).jpg"
-        },
-        4: {
             "name": "Will Smith (1968)",
             "link": "http://en.wikipedia.org/wiki/Will_Smith",
-            "sig": 82.1074806061802,
+            "sig": 83.303341,
             "img": "/WhatsMyGen/images/Will_Smith_(1968).jpg"
         },
+        4: {
+            "name": "Jay-Z (1969)",
+            "link": "http://en.wikipedia.org/wiki/Jay-Z",
+            "sig": 82.057525,
+            "img": "/WhatsMyGen/images/Jay-Z_(1969).jpg"
+        },
         5: {
-            "name": "Janet Jackson (1966)",
-            "link": "http://en.wikipedia.org/wiki/Janet_Jackson",
-            "sig": 81.15481256610687,
-            "img": "/WhatsMyGen/images/Janet_Jackson_(1966).jpg"
+            "name": "Jennifer Lopez (1969)",
+            "link": "http://en.wikipedia.org/wiki/Jennifer_Lopez",
+            "sig": 81.541219,
+            "img": "/WhatsMyGen/images/Jennifer_Lopez_(1969).jpg"
         },
         6: {
-            "name": "Mariah Carey (1969)",
-            "link": "http://en.wikipedia.org/wiki/Mariah_Carey",
-            "sig": 81.14505948186583,
-            "img": "/WhatsMyGen/images/Mariah_Carey_(1969).jpg"
+            "name": "Janet Jackson (1966)",
+            "link": "http://en.wikipedia.org/wiki/Janet_Jackson",
+            "sig": 81.049829,
+            "img": "/WhatsMyGen/images/Janet_Jackson_(1966).jpg"
         },
         7: {
             "name": "Sarah Palin (1964)",
             "link": "http://en.wikipedia.org/wiki/Sarah_Palin",
-            "sig": 80.24810616061694,
+            "sig": 80.865488,
             "img": "/WhatsMyGen/images/Sarah_Palin_(1964).jpg"
         },
         8: {
-            "name": "Stephen Colbert (1964)",
-            "link": "http://en.wikipedia.org/wiki/Stephen_Colbert",
-            "sig": 79.5083675494487,
-            "img": "/WhatsMyGen/images/Stephen_Colbert_(1964).jpg"
+            "name": "Gavin Newsom (1967)",
+            "link": "http://en.wikipedia.org/wiki/Gavin_Newsom",
+            "sig": 80.526694,
+            "img": "/WhatsMyGen/images/Gavin_Newsom_(1967).jpg"
         },
         9: {
-            "name": "Mike Tyson (1966)",
-            "link": "http://en.wikipedia.org/wiki/Mike_Tyson",
-            "sig": 79.44558176594401,
-            "img": "/WhatsMyGen/images/Mike_Tyson_(1966).jpg"
+            "name": "Wes Anderson (1969)",
+            "link": "http://en.wikipedia.org/wiki/Wes_Anderson",
+            "sig": 80.502966,
+            "img": "/WhatsMyGen/images/Wes_Anderson_(1969).jpg"
         },
     },
     "genx-middle": {
