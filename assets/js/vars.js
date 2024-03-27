@@ -824,62 +824,62 @@ var BOG = {
         0: {
             "name": "Eminem (1972)",
             "link": "http://en.wikipedia.org/wiki/Eminem",
-            "sig": 88.00825235380731,
+            "sig": 83.550434,
             "img": "/WhatsMyGen/images/Eminem_(1972).jpg"
         },
         1: {
-            "name": "Christopher Nolan (1970)",
-            "link": "http://en.wikipedia.org/wiki/Christopher_Nolan",
-            "sig": 86.24757611374572,
-            "img": "/WhatsMyGen/images/Christopher_Nolan_(1970).jpg"
+            "name": "Leonardo DiCaprio (1974)",
+            "link": "http://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+            "sig": 82.223933,
+            "img": "/WhatsMyGen/images/Leonardo_DiCaprio_(1974).jpg"
         },
         2: {
             "name": "Snoop Dogg (1971)",
             "link": "http://en.wikipedia.org/wiki/Snoop_Dogg",
-            "sig": 81.99674461193476,
+            "sig": 81.963758,
             "img": "/WhatsMyGen/images/Snoop_Dogg_(1971).jpg"
         },
         3: {
-            "name": "Angelina Jolie (1975)",
-            "link": "http://en.wikipedia.org/wiki/Angelina_Jolie",
-            "sig": 80.59784031082317,
-            "img": "/WhatsMyGen/images/Angelina_Jolie_(1975).jpg"
+            "name": "Ted Cruz (1970)",
+            "link": "http://en.wikipedia.org/wiki/Ted_Cruz",
+            "sig": 81.314088,
+            "img": "/WhatsMyGen/images/Ted_Cruz_(1970).jpg"
         },
         4: {
-            "name": "Leonardo DiCaprio (1974)",
-            "link": "http://en.wikipedia.org/wiki/Leonardo_DiCaprio",
-            "sig": 80.51642902624202,
-            "img": "/WhatsMyGen/images/Leonardo_DiCaprio_(1974).jpg"
+            "name": "Angelina Jolie (1975)",
+            "link": "http://en.wikipedia.org/wiki/Angelina_Jolie",
+            "sig": 80.522251,
+            "img": "/WhatsMyGen/images/Angelina_Jolie_(1975).jpg"
         },
         5: {
-            "name": "Pharrell Williams (1973)",
-            "link": "http://en.wikipedia.org/wiki/Pharrell_Williams",
-            "sig": 80.18021559321198,
-            "img": "/WhatsMyGen/images/Pharrell_Williams_(1973).jpg"
+            "name": "Matt Damon (1970)",
+            "link": "http://en.wikipedia.org/wiki/Matt_Damon",
+            "sig": 80.434179,
+            "img": "/WhatsMyGen/images/Matt_Damon_(1970).jpg"
         },
         6: {
-            "name": "Shaquille O'Neal (1972)",
-            "link": "http://en.wikipedia.org/wiki/Shaquille_O'Neal",
-            "sig": 80.00054657975106,
-            "img": "/WhatsMyGen/images/Shaquille_O'Neal_(1972).jpg"
+            "name": "Pharrell Williams (1973)",
+            "link": "http://en.wikipedia.org/wiki/Pharrell_Williams",
+            "sig": 80.235699,
+            "img": "/WhatsMyGen/images/Pharrell_Williams_(1973).jpg"
         },
         7: {
-            "name": "Thomas Woods (1972)",
-            "link": "http://en.wikipedia.org/wiki/Thomas_Woods",
-            "sig": 79.7834247623883,
-            "img": "/WhatsMyGen/images/Thomas_Woods_(1972).jpg"
+            "name": "Shaquille O'Neal (1972)",
+            "link": "http://en.wikipedia.org/wiki/Shaquille_O'Neal",
+            "sig": 80.046305,
+            "img": "/WhatsMyGen/images/Shaquille_O'Neal_(1972).jpg"
         },
         8: {
             "name": "Tiger Woods (1975)",
             "link": "http://en.wikipedia.org/wiki/Tiger_Woods",
-            "sig": 79.34027869781939,
+            "sig": 79.836338,
             "img": "/WhatsMyGen/images/Tiger_Woods_(1975).jpg"
         },
         9: {
-            "name": "Marco Rubio (1971)",
-            "link": "http://en.wikipedia.org/wiki/Marco_Rubio",
-            "sig": 79.33184018332791,
-            "img": "/WhatsMyGen/images/Marco_Rubio_(1971).jpg"
+            "name": "Akon (1973)",
+            "link": "http://en.wikipedia.org/wiki/Akon",
+            "sig": 78.943459,
+            "img": "/WhatsMyGen/images/Akon_(1973).jpg"
         },
     },
     "genx-young": {
