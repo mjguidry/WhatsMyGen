@@ -700,62 +700,62 @@ var BOG = {
         0: {
             "name": "Barack Obama (1961)",
             "link": "http://en.wikipedia.org/wiki/Barack_Obama",
-            "sig": 100.0,
+            "sig": 100.000000,
             "img": "/WhatsMyGen/images/Barack_Obama_(1961).jpg"
         },
         1: {
-            "name": "Michael Jackson (1958)",
-            "link": "http://en.wikipedia.org/wiki/Michael_Jackson",
-            "sig": 90.54642299740048,
-            "img": "/WhatsMyGen/images/Michael_Jackson_(1958).jpg"
-        },
-        2: {
             "name": "Madonna (1958)",
-            "link": "http://en.wikipedia.org/wiki/Madonna_(entertainer)",
-            "sig": 90.48387903298865,
+            "link": "http://en.wikipedia.org/wiki/Madonna",
+            "sig": 90.643442,
             "img": "/WhatsMyGen/images/Madonna_(1958).jpg"
         },
+        2: {
+            "name": "Michael Jackson (1958)",
+            "link": "http://en.wikipedia.org/wiki/Michael_Jackson",
+            "sig": 89.992865,
+            "img": "/WhatsMyGen/images/Michael_Jackson_(1958).jpg"
+        },
         3: {
-            "name": "Mike Pence (1959)",
-            "link": "http://en.wikipedia.org/wiki/Mike_Pence",
-            "sig": 85.59580648648331,
-            "img": "/WhatsMyGen/images/Mike_Pence_(1959).jpg"
-        },
-        4: {
-            "name": "Michael Jordan (1963)",
-            "link": "http://en.wikipedia.org/wiki/Michael_Jordan",
-            "sig": 84.27134930874868,
-            "img": "/WhatsMyGen/images/Michael_Jordan_(1963).jpg"
-        },
-        5: {
             "name": "Prince (1958)",
             "link": "http://en.wikipedia.org/wiki/Prince_(musician)",
-            "sig": 82.92528733867871,
+            "sig": 87.165659,
             "img": "/WhatsMyGen/images/Prince_(1958).jpg"
         },
-        6: {
-            "name": "Tom Cruise (1962)",
-            "link": "http://en.wikipedia.org/wiki/Tom_Cruise",
-            "sig": 81.70953127324847,
-            "img": "/WhatsMyGen/images/Tom_Cruise_(1962).jpg"
-        },
-        7: {
-            "name": "Quentin Tarantino (1963)",
-            "link": "http://en.wikipedia.org/wiki/Quentin_Tarantino",
-            "sig": 81.31116690329208,
-            "img": "/WhatsMyGen/images/Quentin_Tarantino_(1963).jpg"
-        },
-        8: {
+        4: {
             "name": "Whitney Houston (1963)",
             "link": "http://en.wikipedia.org/wiki/Whitney_Houston",
-            "sig": 81.30399751028092,
+            "sig": 86.356118,
             "img": "/WhatsMyGen/images/Whitney_Houston_(1963).jpg"
         },
+        5: {
+            "name": "Michael Jordan (1963)",
+            "link": "http://en.wikipedia.org/wiki/Michael_Jordan",
+            "sig": 84.470717,
+            "img": "/WhatsMyGen/images/Michael_Jordan_(1963).jpg"
+        },
+        6: {
+            "name": "Mike Pompeo (1963)",
+            "link": "http://en.wikipedia.org/wiki/Mike_Pompeo",
+            "sig": 83.223032,
+            "img": "/WhatsMyGen/images/Mike_Pompeo_(1963).jpg"
+        },
+        7: {
+            "name": "Tom Cruise (1962)",
+            "link": "http://en.wikipedia.org/wiki/Tom_Cruise",
+            "sig": 82.886050,
+            "img": "/WhatsMyGen/images/Tom_Cruise_(1962).jpg"
+        },
+        8: {
+            "name": "Brad Pitt (1963)",
+            "link": "http://en.wikipedia.org/wiki/Brad_Pitt",
+            "sig": 82.232000,
+            "img": "/WhatsMyGen/images/Brad_Pitt_(1963).jpg"
+        },
         9: {
-            "name": "Magic Johnson (1959)",
-            "link": "http://en.wikipedia.org/wiki/Magic_Johnson",
-            "sig": 80.87918482017746,
-            "img": "/WhatsMyGen/images/Magic_Johnson_(1959).jpg"
+            "name": "Bill de Blasio (1961)",
+            "link": "http://en.wikipedia.org/wiki/Bill_de_Blasio",
+            "sig": 82.056828,
+            "img": "/WhatsMyGen/images/Bill_de_Blasio_(1961).jpg"
         },
     },
     "genx-first": {

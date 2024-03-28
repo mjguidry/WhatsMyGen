@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Boomer Generation: Young tier
 #### 1958 to 1963
-In 2020, this tier would be those Americans between 57 and 62 years old. The U.S. Census Bureau estimates that there were 25,984,694 people in this tier in 2019. 
+In 2024, this tier would be those Americans between 61 and 66 years old. The U.S. Census Bureau estimates that there were 25,547,428 people in this tier in 2022. 
 
 ### People
 
