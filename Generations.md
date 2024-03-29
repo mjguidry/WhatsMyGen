@@ -27,3 +27,7 @@ title: WhatsMyGen
   - [First (1982 - 1987)](/WhatsMyGen/generations/millennial-first.html)
   - [Middle (1988 - 1993)](/WhatsMyGen/generations/millennial-middle.html)
   - [Young (1994 - 1999)](/WhatsMyGen/generations/millennial-young.html)
+- [Gen Z (2000 - 2017)](/WhatsMyGen/generations/genz.html)
+  - [First (2000 - 2005)](/WhatsMyGen/generations/genz-first.html)
+  - Middle (2006 - 2011)
+  - Young (2012 - 2017)
