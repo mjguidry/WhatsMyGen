@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Greatest Generation: Young tier
 #### 1922 to 1927
-In 2020, this tier would be those Americans between 93 and 98 years old. The U.S. Census Bureau estimates that there were 1,479,878 people in this tier in 2019. 
+In 2024, this tier would be those Americans between 97 and 102 years old. The U.S. Census Bureau estimates that there were 750,550 people in this tier in 2022. 
 
 ### People
 

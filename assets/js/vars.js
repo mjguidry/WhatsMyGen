@@ -329,62 +329,62 @@ var BOG = {
         0: {
             "name": "George H. W. Bush (1924)",
             "link": "http://en.wikipedia.org/wiki/George_H._W._Bush",
-            "sig": 93.38028979908796,
+            "sig": 92.854436,
             "img": "/WhatsMyGen/images/George_H._W._Bush_(1924).jpg"
         },
         1: {
             "name": "Jimmy Carter (1924)",
             "link": "http://en.wikipedia.org/wiki/Jimmy_Carter",
-            "sig": 91.73874433452309,
+            "sig": 92.302739,
             "img": "/WhatsMyGen/images/Jimmy_Carter_(1924).jpg"
         },
         2: {
-            "name": "Henry Kissinger (1923)",
-            "link": "http://en.wikipedia.org/wiki/Henry_Kissinger",
-            "sig": 87.12449103583769,
-            "img": "/WhatsMyGen/images/Henry_Kissinger_(1923).jpg"
-        },
-        3: {
             "name": "Marilyn Monroe (1926)",
             "link": "http://en.wikipedia.org/wiki/Marilyn_Monroe",
-            "sig": 87.0890568211012,
+            "sig": 86.430574,
             "img": "/WhatsMyGen/images/Marilyn_Monroe_(1926).jpg"
         },
-        4: {
+        3: {
             "name": "Chuck Berry (1926)",
             "link": "http://en.wikipedia.org/wiki/Chuck_Berry",
-            "sig": 86.84274663888182,
+            "sig": 86.097153,
             "img": "/WhatsMyGen/images/Chuck_Berry_(1926).jpg"
         },
-        5: {
-            "name": "Alan Greenspan (1926)",
-            "link": "http://en.wikipedia.org/wiki/Alan_Greenspan",
-            "sig": 86.45015877252811,
-            "img": "/WhatsMyGen/images/Alan_Greenspan_(1926).jpg"
-        },
-        6: {
-            "name": "Robert Altman (1925)",
-            "link": "http://en.wikipedia.org/wiki/Robert_Altman",
-            "sig": 85.6233810090251,
-            "img": "/WhatsMyGen/images/Robert_Altman_(1925).jpg"
-        },
-        7: {
+        4: {
             "name": "Roy Lichtenstein (1923)",
             "link": "http://en.wikipedia.org/wiki/Roy_Lichtenstein",
-            "sig": 85.29524993612517,
+            "sig": 84.806145,
             "img": "/WhatsMyGen/images/Roy_Lichtenstein_(1923).jpg"
         },
+        5: {
+            "name": "Robert F. Kennedy (1925)",
+            "link": "http://en.wikipedia.org/wiki/Robert_F._Kennedy",
+            "sig": 83.983141,
+            "img": "/WhatsMyGen/images/Robert_F._Kennedy_(1925).jpg"
+        },
+        6: {
+            "name": "Miles Davis (1926)",
+            "link": "http://en.wikipedia.org/wiki/Miles_Davis",
+            "sig": 83.824890,
+            "img": "/WhatsMyGen/images/Miles_Davis_(1926).jpg"
+        },
+        7: {
+            "name": "Jack Kerouac (1922)",
+            "link": "http://en.wikipedia.org/wiki/Jack_Kerouac",
+            "sig": 83.206539,
+            "img": "/WhatsMyGen/images/Jack_Kerouac_(1922).jpg"
+        },
         8: {
-            "name": "Judy Garland (1922)",
-            "link": "http://en.wikipedia.org/wiki/Judy_Garland",
-            "sig": 84.36740694122442,
-            "img": "/WhatsMyGen/images/Judy_Garland_(1922).jpg"
+            "name": "Marlon Brando (1924)",
+            "link": "http://en.wikipedia.org/wiki/Marlon_Brando",
+            "sig": 83.121150,
+            "img": "/WhatsMyGen/images/Marlon_Brando_(1924).jpg"
         },
         9: {
-            "name": "Harper Lee (1926)",
-            "link": "http://en.wikipedia.org/wiki/Harper_Lee",
-            "sig": 83.9928277371736,
-            "img": "/WhatsMyGen/images/Harper_Lee_(1926).jpg"
+            "name": "Judy Garland (1922)",
+            "link": "http://en.wikipedia.org/wiki/Judy_Garland",
+            "sig": 82.995605,
+            "img": "/WhatsMyGen/images/Judy_Garland_(1922).jpg"
         },
     },
     "silent-first": {
