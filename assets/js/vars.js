@@ -576,62 +576,62 @@ var BOG = {
         0: {
             "name": "George W. Bush (1946)",
             "link": "http://en.wikipedia.org/wiki/George_W._Bush",
-            "sig": 97.61173061103803,
+            "sig": 98.138808,
             "img": "/WhatsMyGen/images/George_W._Bush_(1946).jpg"
         },
         1: {
             "name": "Donald Trump (1946)",
             "link": "http://en.wikipedia.org/wiki/Donald_Trump",
-            "sig": 96.25927501275368,
+            "sig": 97.539592,
             "img": "/WhatsMyGen/images/Donald_Trump_(1946).jpg"
         },
         2: {
             "name": "Bill Clinton (1946)",
             "link": "http://en.wikipedia.org/wiki/Bill_Clinton",
-            "sig": 94.12767258046978,
+            "sig": 95.467523,
             "img": "/WhatsMyGen/images/Bill_Clinton_(1946).jpg"
         },
         3: {
             "name": "Hillary Clinton (1947)",
             "link": "http://en.wikipedia.org/wiki/Hillary_Clinton",
-            "sig": 92.02046014766184,
+            "sig": 91.732123,
             "img": "/WhatsMyGen/images/Hillary_Clinton_(1947).jpg"
         },
         4: {
-            "name": "Steven Spielberg (1946)",
-            "link": "http://en.wikipedia.org/wiki/Steven_Spielberg",
-            "sig": 89.67204031566756,
-            "img": "/WhatsMyGen/images/Steven_Spielberg_(1946).jpg"
-        },
-        5: {
             "name": "Al Gore (1948)",
             "link": "http://en.wikipedia.org/wiki/Al_Gore",
-            "sig": 89.22849979442232,
+            "sig": 88.926314,
             "img": "/WhatsMyGen/images/Al_Gore_(1948).jpg"
         },
+        5: {
+            "name": "Steven Spielberg (1946)",
+            "link": "http://en.wikipedia.org/wiki/Steven_Spielberg",
+            "sig": 87.125706,
+            "img": "/WhatsMyGen/images/Steven_Spielberg_(1946).jpg"
+        },
         6: {
-            "name": "Martha Nussbaum (1947)",
-            "link": "http://en.wikipedia.org/wiki/Martha_Nussbaum",
-            "sig": 85.79965254998262,
-            "img": "/WhatsMyGen/images/Martha_Nussbaum_(1947).jpg"
-        },
-        7: {
-            "name": "Chuck Schumer (1950)",
-            "link": "http://en.wikipedia.org/wiki/Chuck_Schumer",
-            "sig": 85.38495052767242,
-            "img": "/WhatsMyGen/images/Chuck_Schumer_(1950).jpg"
-        },
-        8: {
             "name": "Mitt Romney (1947)",
             "link": "http://en.wikipedia.org/wiki/Mitt_Romney",
-            "sig": 85.17817576627054,
+            "sig": 85.475257,
             "img": "/WhatsMyGen/images/Mitt_Romney_(1947).jpg"
         },
-        9: {
+        7: {
             "name": "Bruce Springsteen (1949)",
             "link": "http://en.wikipedia.org/wiki/Bruce_Springsteen",
-            "sig": 85.02053973072546,
+            "sig": 85.159833,
             "img": "/WhatsMyGen/images/Bruce_Springsteen_(1949).jpg"
+        },
+        8: {
+            "name": "Stevie Wonder (1950)",
+            "link": "http://en.wikipedia.org/wiki/Stevie_Wonder",
+            "sig": 82.816103,
+            "img": "/WhatsMyGen/images/Stevie_Wonder_(1950).jpg"
+        },
+        9: {
+            "name": "Meryl Streep (1949)",
+            "link": "http://en.wikipedia.org/wiki/Meryl_Streep",
+            "sig": 82.670352,
+            "img": "/WhatsMyGen/images/Meryl_Streep_(1949).jpg"
         },
     },
     "boomer-middle": {
