@@ -638,62 +638,62 @@ var BOG = {
         0: {
             "name": "Bill Gates (1955)",
             "link": "http://en.wikipedia.org/wiki/Bill_Gates",
-            "sig": 85.73357533993605,
+            "sig": 86.476652,
             "img": "/WhatsMyGen/images/Bill_Gates_(1955).jpg"
         },
         1: {
-            "name": "Cornel West (1953)",
-            "link": "http://en.wikipedia.org/wiki/Cornel_West",
-            "sig": 85.05631780878197,
-            "img": "/WhatsMyGen/images/Cornel_West_(1953).jpg"
-        },
-        2: {
             "name": "Condoleezza Rice (1954)",
             "link": "http://en.wikipedia.org/wiki/Condoleezza_Rice",
-            "sig": 84.87299721268337,
+            "sig": 84.758060,
             "img": "/WhatsMyGen/images/Condoleezza_Rice_(1954).jpg"
         },
-        3: {
-            "name": "Judith Butler (1956)",
-            "link": "http://en.wikipedia.org/wiki/Judith_Butler",
-            "sig": 84.39925017101555,
-            "img": "/WhatsMyGen/images/Judith_Butler_(1956).jpg"
-        },
-        4: {
+        2: {
             "name": "Oprah Winfrey (1954)",
             "link": "http://en.wikipedia.org/wiki/Oprah_Winfrey",
-            "sig": 83.70155606813199,
+            "sig": 84.133356,
             "img": "/WhatsMyGen/images/Oprah_Winfrey_(1954).jpg"
+        },
+        3: {
+            "name": "Tom Hanks (1956)",
+            "link": "http://en.wikipedia.org/wiki/Tom_Hanks",
+            "sig": 83.239239,
+            "img": "/WhatsMyGen/images/Tom_Hanks_(1956).jpg"
+        },
+        4: {
+            "name": "Steve Jobs (1955)",
+            "link": "http://en.wikipedia.org/wiki/Steve_Jobs",
+            "sig": 82.876836,
+            "img": "/WhatsMyGen/images/Steve_Jobs_(1955).jpg"
         },
         5: {
             "name": "Paul Krugman (1953)",
             "link": "http://en.wikipedia.org/wiki/Paul_Krugman",
-            "sig": 82.50639264207271,
+            "sig": 82.397301,
             "img": "/WhatsMyGen/images/Paul_Krugman_(1953).jpg"
         },
         6: {
-            "name": "Tom Hanks (1956)",
-            "link": "http://en.wikipedia.org/wiki/Tom_Hanks",
-            "sig": 81.42777830114747,
-            "img": "/WhatsMyGen/images/Tom_Hanks_(1956).jpg"
-        },
-        7: {
             "name": "Ben Bernanke (1953)",
             "link": "http://en.wikipedia.org/wiki/Ben_Bernanke",
-            "sig": 80.9859876811866,
+            "sig": 81.675209,
             "img": "/WhatsMyGen/images/Ben_Bernanke_(1953).jpg"
         },
+        7: {
+            "name": "Mel Gibson (1956)",
+            "link": "http://en.wikipedia.org/wiki/Mel_Gibson",
+            "sig": 81.607399,
+            "img": "/WhatsMyGen/images/Mel_Gibson_(1956).jpg"
+        },
         8: {
-            "name": "Lawrence Summers (1954)",
-            "link": "http://en.wikipedia.org/wiki/Lawrence_Summers",
-            "sig": 80.5416408104603,
-            "img": "/WhatsMyGen/images/Lawrence_Summers_(1954).jpg"
+            "name": "Sonia Sotomayor (1954)",
+            "link": "http://en.wikipedia.org/wiki/Sonia_Sotomayor",
+            "sig": 81.548496,
+            "img": "/WhatsMyGen/images/Sonia_Sotomayor_(1954).jpg"
         },
         9: {
-            "name": "Steve Jobs (1955)",
-            "link": "http://en.wikipedia.org/wiki/Steve_Jobs",
-            "sig": 80.38874225676543,
-            "img": "/WhatsMyGen/images/Steve_Jobs_(1955).jpg"
+            "name": "Jeffrey Sachs (1954)",
+            "link": "http://en.wikipedia.org/wiki/Jeffrey_Sachs",
+            "sig": 81.521753,
+            "img": "/WhatsMyGen/images/Jeffrey_Sachs_(1954).jpg"
         },
     },
     "boomer-young": {
