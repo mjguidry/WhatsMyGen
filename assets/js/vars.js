@@ -391,62 +391,62 @@ var BOG = {
         0: {
             "name": "Martin Luther King Jr. (1929)",
             "link": "http://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-            "sig": 91.26302243693013,
+            "sig": 90.871321,
             "img": "/WhatsMyGen/images/Martin_Luther_King_Jr._(1929).jpg"
         },
         1: {
-            "name": "Noam Chomsky (1928)",
-            "link": "http://en.wikipedia.org/wiki/Noam_Chomsky",
-            "sig": 89.55466430070409,
-            "img": "/WhatsMyGen/images/Noam_Chomsky_(1928).jpg"
-        },
-        2: {
             "name": "Andy Warhol (1928)",
             "link": "http://en.wikipedia.org/wiki/Andy_Warhol",
-            "sig": 88.46682367528743,
+            "sig": 87.978190,
             "img": "/WhatsMyGen/images/Andy_Warhol_(1928).jpg"
         },
+        2: {
+            "name": "Buzz Aldrin (1930)",
+            "link": "http://en.wikipedia.org/wiki/Buzz_Aldrin",
+            "sig": 85.352881,
+            "img": "/WhatsMyGen/images/Buzz_Aldrin_(1930).jpg"
+        },
         3: {
-            "name": "James Brown (1933)",
-            "link": "http://en.wikipedia.org/wiki/James_Brown",
-            "sig": 87.10864902687281,
-            "img": "/WhatsMyGen/images/James_Brown_(1933).jpg"
+            "name": "Noam Chomsky (1928)",
+            "link": "http://en.wikipedia.org/wiki/Noam_Chomsky",
+            "sig": 85.000573,
+            "img": "/WhatsMyGen/images/Noam_Chomsky_(1928).jpg"
         },
         4: {
-            "name": "Stephen Sondheim (1930)",
-            "link": "http://en.wikipedia.org/wiki/Stephen_Sondheim",
-            "sig": 85.7673091033918,
-            "img": "/WhatsMyGen/images/Stephen_Sondheim_(1930).jpg"
+            "name": "Stanley Kubrick (1928)",
+            "link": "http://en.wikipedia.org/wiki/Stanley_Kubrick",
+            "sig": 84.313054,
+            "img": "/WhatsMyGen/images/Stanley_Kubrick_(1928).jpg"
         },
         5: {
-            "name": "Edward Albee (1928)",
-            "link": "http://en.wikipedia.org/wiki/Edward_Albee",
-            "sig": 85.16138420290078,
-            "img": "/WhatsMyGen/images/Edward_Albee_(1928).jpg"
+            "name": "Clint Eastwood (1930)",
+            "link": "http://en.wikipedia.org/wiki/Clint_Eastwood",
+            "sig": 83.372916,
+            "img": "/WhatsMyGen/images/Clint_Eastwood_(1930).jpg"
         },
         6: {
-            "name": "Thomas Sowell (1930)",
-            "link": "http://en.wikipedia.org/wiki/Thomas_Sowell",
-            "sig": 84.6535089411009,
-            "img": "/WhatsMyGen/images/Thomas_Sowell_(1930).jpg"
+            "name": "Donald Rumsfeld (1932)",
+            "link": "http://en.wikipedia.org/wiki/Donald_Rumsfeld",
+            "sig": 83.291306,
+            "img": "/WhatsMyGen/images/Donald_Rumsfeld_(1932).jpg"
         },
         7: {
-            "name": "Richard Rorty (1931)",
-            "link": "http://en.wikipedia.org/wiki/Richard_Rorty",
-            "sig": 84.35417377724848,
-            "img": "/WhatsMyGen/images/Richard_Rorty_(1931).jpg"
-        },
-        8: {
             "name": "John Barth (1930)",
             "link": "http://en.wikipedia.org/wiki/John_Barth",
-            "sig": 84.08181716335079,
+            "sig": 83.149991,
             "img": "/WhatsMyGen/images/John_Barth_(1930).jpg"
         },
-        9: {
-            "name": "Chuck Grassley (1933)",
-            "link": "http://en.wikipedia.org/wiki/Chuck_Grassley",
-            "sig": 83.82579877348327,
-            "img": "/WhatsMyGen/images/Chuck_Grassley_(1933).jpg"
+        8: {
+            "name": "Jacqueline Kennedy Onassis (1929)",
+            "link": "http://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
+            "sig": 82.877524,
+            "img": "/WhatsMyGen/images/Jacqueline_Kennedy_Onassis_(1929).jpg"
+        },
+	9: {
+            "name": "John Williams (1932)",
+            "link": "http://en.wikipedia.org/wiki/John_Williams",
+            "sig": 82.599972,
+            "img": "/WhatsMyGen/images/John_Williams_(1932).jpg"
         },
     },
     "silent-middle": {
