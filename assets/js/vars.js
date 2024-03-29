@@ -512,64 +512,64 @@ var BOG = {
     },
     "silent-young": {
         0: {
-            "name": "Bob Dylan (1941)",
-            "link": "http://en.wikipedia.org/wiki/Bob_Dylan",
-            "sig": 91.9548954454563,
-            "img": "/WhatsMyGen/images/Bob_Dylan_(1941).jpg"
-        },
-        1: {
-            "name": "John Kerry (1943)",
-            "link": "http://en.wikipedia.org/wiki/John_Kerry",
-            "sig": 91.47265329333908,
-            "img": "/WhatsMyGen/images/John_Kerry_(1943).jpg"
-        },
-        2: {
-            "name": "Martin Scorsese (1942)",
-            "link": "http://en.wikipedia.org/wiki/Martin_Scorsese",
-            "sig": 88.04477875619612,
-            "img": "/WhatsMyGen/images/Martin_Scorsese_(1942).jpg"
-        },
-        3: {
-            "name": "George Lucas (1944)",
-            "link": "http://en.wikipedia.org/wiki/George_Lucas",
-            "sig": 87.38176139689526,
-            "img": "/WhatsMyGen/images/George_Lucas_(1944).jpg"
-        },
-        4: {
-            "name": "Nancy Pelosi (1940)",
-            "link": "http://en.wikipedia.org/wiki/Nancy_Pelosi",
-            "sig": 86.82897952920202,
-            "img": "/WhatsMyGen/images/Nancy_Pelosi_(1940).jpg"
-        },
-        5: {
-            "name": "Roger Ebert (1942)",
-            "link": "http://en.wikipedia.org/wiki/Roger_Ebert",
-            "sig": 85.8940205930281,
-            "img": "/WhatsMyGen/images/Roger_Ebert_(1942).jpg"
-        },
-        6: {
-            "name": "Michael Bloomberg (1942)",
-            "link": "http://en.wikipedia.org/wiki/Michael_Bloomberg",
-            "sig": 85.18764386985484,
-            "img": "/WhatsMyGen/images/Michael_Bloomberg_(1942).jpg"
-        },
-        7: {
-            "name": "Muhammad Ali (1942)",
-            "link": "http://en.wikipedia.org/wiki/Muhammad_Ali",
-            "sig": 85.03589695815191,
-            "img": "/WhatsMyGen/images/Muhammad_Ali_(1942).jpg"
-        },
-        8: {
-            "name": "August Wilson (1945)",
-            "link": "http://en.wikipedia.org/wiki/August_Wilson",
-            "sig": 84.40878487489375,
-            "img": "/WhatsMyGen/images/August_Wilson_(1945).jpg"
-        },
-        9: {
             "name": "Joe Biden (1942)",
             "link": "http://en.wikipedia.org/wiki/Joe_Biden",
-            "sig": 84.22495491517401,
+            "sig": 94.308206,
             "img": "/WhatsMyGen/images/Joe_Biden_(1942).jpg"
+        },
+        1: {
+            "name": "Bob Dylan (1941)",
+            "link": "http://en.wikipedia.org/wiki/Bob_Dylan",
+            "sig": 91.339177,
+            "img": "/WhatsMyGen/images/Bob_Dylan_(1941).jpg"
+        },
+        2: {
+            "name": "John Kerry (1943)",
+            "link": "http://en.wikipedia.org/wiki/John_Kerry",
+            "sig": 90.920748,
+            "img": "/WhatsMyGen/images/John_Kerry_(1943).jpg"
+        },
+        3: {
+            "name": "Roger Ebert (1942)",
+            "link": "http://en.wikipedia.org/wiki/Roger_Ebert",
+            "sig": 86.140269,
+            "img": "/WhatsMyGen/images/Roger_Ebert_(1942).jpg"
+        },
+        4: {
+            "name": "Michael Bloomberg (1942)",
+            "link": "http://en.wikipedia.org/wiki/Michael_Bloomberg",
+            "sig": 84.870477,
+            "img": "/WhatsMyGen/images/Michael_Bloomberg_(1942).jpg"
+        },
+        5: {
+            "name": "Jimi Hendrix (1942)",
+            "link": "http://en.wikipedia.org/wiki/Jimi_Hendrix",
+            "sig": 84.553101,
+            "img": "/WhatsMyGen/images/Jimi_Hendrix_(1942).jpg"
+        },
+        6: {
+            "name": "Muhammad Ali (1942)",
+            "link": "http://en.wikipedia.org/wiki/Muhammad_Ali",
+            "sig": 84.450098,
+            "img": "/WhatsMyGen/images/Muhammad_Ali_(1942).jpg"
+        },
+        7: {
+            "name": "Bernie Sanders (1941)",
+            "link": "http://en.wikipedia.org/wiki/Bernie_Sanders",
+            "sig": 84.081908,
+            "img": "/WhatsMyGen/images/Bernie_Sanders_(1941).jpg"
+        },
+        8: {
+            "name": "Joseph Ellis (1943)",
+            "link": "http://en.wikipedia.org/wiki/Joseph_Ellis",
+            "sig": 84.038287,
+            "img": "/WhatsMyGen/images/Joseph_Ellis_(1943).jpg"
+        },
+        9: {
+            "name": "Martin Scorsese (1942)",
+            "link": "http://en.wikipedia.org/wiki/Martin_Scorsese",
+            "sig": 84.016114,
+            "img": "/WhatsMyGen/images/Martin_Scorsese_(1942).jpg"
         },
     },
     "boomer-first": {
