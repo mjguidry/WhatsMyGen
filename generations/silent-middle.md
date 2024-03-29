@@ -6,7 +6,7 @@ title: WhatsMyGen
 <br>
 ### Silent Generation: Middle tier
 #### 1934 to 1939
-In 2020, this tier would be those Americans between 81 and 86 years old. The U.S. Census Bureau estimates that there were 7,367,827 people in this tier in 2019. 
+In 2024, this tier would be those Americans between 85 and 90 years old. The U.S. Census Bureau estimates that there were 5,910,758 people in this tier in 2022. 
 
 ### People
 

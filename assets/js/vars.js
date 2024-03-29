@@ -453,61 +453,62 @@ var BOG = {
         0: {
             "name": "Elvis Presley (1935)",
             "link": "http://en.wikipedia.org/wiki/Elvis_Presley",
-            "sig": 91.2972472703641,
+            "sig": 90.553613,
             "img": "/WhatsMyGen/images/Elvis_Presley_(1935).jpg"
         },
         1: {
             "name": "John McCain (1936)",
             "link": "http://en.wikipedia.org/wiki/John_McCain",
-            "sig": 88.7119459140671,
+            "sig": 87.680141,
             "img": "/WhatsMyGen/images/John_McCain_(1936).jpg"
         },
         2: {
-            "name": "Francis Ford Coppola (1939)",
-            "link": "http://en.wikipedia.org/wiki/Francis_Ford_Coppola",
-            "sig": 87.06119102946292,
-            "img": "/WhatsMyGen/images/Francis_Ford_Coppola_(1939).jpg"
-        },
-        3: {
             "name": "Thomas Pynchon (1937)",
             "link": "http://en.wikipedia.org/wiki/Thomas_Pynchon",
-            "sig": 86.29763466683758,
+            "sig": 85.090196,
+            "img": "/WhatsMyGen/images/Thomas_Pynchon_(1937).jpg"
+        },
+        3: {
+            "name": "Colin Powell (1937)",
+            "link": "http://en.wikipedia.org/wiki/Colin_Powell",
+            "sig": 84.949938,
+            "img": "/WhatsMyGen/images/Colin_Powell_(1937).jpg"
         },
         4: {
-            "name": "Robert Nozick (1938)",
-            "link": "http://en.wikipedia.org/wiki/Robert_Nozick",
-            "sig": 85.40837496580589,
-            "img": "/WhatsMyGen/images/Robert_Nozick_(1938).jpg"
+            "name": "Woody Allen (1935)",
+            "link": "http://en.wikipedia.org/wiki/Woody_Allen",
+            "sig": 83.934641,
+            "img": "/WhatsMyGen/images/Woody_Allen_(1935).jpg"
         },
         5: {
             "name": "Philip Glass (1937)",
             "link": "http://en.wikipedia.org/wiki/Philip_Glass",
-            "sig": 85.34201477596979,
+            "sig": 83.622905,
             "img": "/WhatsMyGen/images/Philip_Glass_(1937).jpg"
         },
         6: {
-            "name": "Colin Powell (1937)",
-            "link": "http://en.wikipedia.org/wiki/Colin_Powell",
-            "sig": 84.6058980202694,
-            "img": "/WhatsMyGen/images/Colin_Powell_(1937).jpg"
-        },
-        7: {
             "name": "Don DeLillo (1936)",
             "link": "http://en.wikipedia.org/wiki/Don_DeLillo",
-            "sig": 84.2221031077395,
+            "sig": 83.449908,
             "img": "/WhatsMyGen/images/Don_DeLillo_(1936).jpg"
         },
+        7: {
+            "name": "Francis Ford Coppola (1939)",
+            "link": "http://en.wikipedia.org/wiki/Francis_Ford_Coppola",
+            "sig": 82.827476,
+            "img": "/WhatsMyGen/images/Francis_Ford_Coppola_(1939).jpg"
+        },
         8: {
-            "name": "Steny Hoyer (1939)",
-            "link": "http://en.wikipedia.org/wiki/Steny_Hoyer",
-            "sig": 83.98593846557027,
-            "img": "/WhatsMyGen/images/Steny_Hoyer_(1939).jpg"
+            "name": "Jerry Brown (1938)",
+            "link": "http://en.wikipedia.org/wiki/Jerry_Brown",
+            "sig": 82.015461,
+            "img": "/WhatsMyGen/images/Jerry_Brown_(1938).jpg"
         },
         9: {
-            "name": "Woody Allen (1935)",
-            "link": "http://en.wikipedia.org/wiki/Woody_Allen",
-            "sig": 83.88497870845772,
-            "img": "/WhatsMyGen/images/Woody_Allen_(1935).jpg"
+            "name": "Ron Paul (1935)",
+            "link": "http://en.wikipedia.org/wiki/Ron_Paul",
+            "sig": 81.420279,
+            "img": "/WhatsMyGen/images/Ron_Paul_(1935).jpg"
         },
     },
     "silent-young": {
